@@ -86,6 +86,12 @@ The threshold sweep uses **0.75, 0.80, 0.85, 0.90, 0.95** and a frozen cache. It
 
 See `results/metrics.json`, `results/predictions.json` (all 500 decisions), and `results/thresholds.md` after running evaluation. Retrieval timings exclude LLM inference, HTTP and disk logging. Optional `--llm` compares 100 sequential uncached Ollama calls against the same questions with frozen caching; it writes actual end-to-end averages. LLM call savings equal cache hits; they are independent of inference speed.
 
+## What the experiment taught us
+
+The initial calibration confused refund timing with refund destination. Clarifying the destination FAQ cache key removed that observed collision. This is calibration-set iteration, so the final zero false-hit count needs confirmation on a fresh held-out set. At threshold 0.75, English paraphrase recall is 8/30 and Hinglish recall is 9/30; the conservative hit rate is a measured limitation, not a claim of complete FAQ coverage.
+
+The end-to-end protocol runs the uncached baseline first and cached requests second on one CPU runner. The first baseline request can include Ollama model loading, and later requests can reuse its prompt cache. Results are one sequential run, without randomized ordering or confidence intervals; use repeated warm, interleaved trials for a production latency claim.
+
 ## Safety decisions
 
 - Negation parity: if only one question contains `not`, `no`, `never`, `nahi`, `nahin`, `mat`, `नहीं` or `मत`, skip that candidate. Examples: “I want a refund” vs “I do not want a refund”; “Refund chahiye” vs “Refund nahi chahiye”; “Cancel the order” vs “Do not cancel the order”. Actual similarities and guard decisions appear in metrics. This simple guard misses double negation and implicit negation.

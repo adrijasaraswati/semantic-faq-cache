@@ -3,7 +3,7 @@ WORKDIR /app
 COPY pyproject.toml ./
 COPY faq_cache ./faq_cache
 COPY data ./data
-RUN pip install --no-cache-dir .
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu && pip install --no-cache-dir .
 ENV HF_HOME=/app/runtime/models
 RUN useradd -m app && mkdir -p runtime && chown -R app:app /app
 USER app
