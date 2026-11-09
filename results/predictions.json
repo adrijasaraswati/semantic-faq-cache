@@ -6,10 +6,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "refund_time",
-    "similarity": 0.8627628087997437,
+    "similarity": 0.8627626299858093,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.66299992799759
+    "latency_ms": 14.476084999984096
   },
   {
     "id": "q002",
@@ -18,10 +18,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3386287987232208,
+    "similarity": 0.338628888130188,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.41390001028776
+    "latency_ms": 13.306375000013304
   },
   {
     "id": "q003",
@@ -33,7 +33,7 @@
     "similarity": 0.6554043292999268,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.226900056935847
+    "latency_ms": 14.859892000004038
   },
   {
     "id": "q004",
@@ -42,10 +42,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.40910354256629944,
+    "similarity": 0.4091036021709442,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.337600058875978
+    "latency_ms": 14.783579999999574
   },
   {
     "id": "q005",
@@ -54,10 +54,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4995056986808777,
+    "similarity": 0.49950581789016724,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.573599876835942
+    "latency_ms": 14.648088999990705
   },
   {
     "id": "q006",
@@ -66,10 +66,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5671682357788086,
+    "similarity": 0.5671682953834534,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.044600039720535
+    "latency_ms": 14.704902999994829
   },
   {
     "id": "q007",
@@ -78,10 +78,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "cancel",
-    "similarity": 0.8073591589927673,
+    "similarity": 0.807358980178833,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.67059996444732
+    "latency_ms": 14.9390800000333
   },
   {
     "id": "q008",
@@ -90,10 +90,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "cancel",
-    "similarity": 0.8849256038665771,
+    "similarity": 0.8849255442619324,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.30910004861653
+    "latency_ms": 13.300235000002658
   },
   {
     "id": "q009",
@@ -105,7 +105,7 @@
     "similarity": 0.8804932832717896,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 28.62139989156276
+    "latency_ms": 14.80921800001056
   },
   {
     "id": "q010",
@@ -114,10 +114,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5805796384811401,
+    "similarity": 0.5805795192718506,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.444900039583445
+    "latency_ms": 14.647560000014437
   },
   {
     "id": "q011",
@@ -126,10 +126,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6791057586669922,
+    "similarity": 0.6791056394577026,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.757499996572733
+    "latency_ms": 14.673206999987087
   },
   {
     "id": "q012",
@@ -138,10 +138,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "delivery_time",
-    "similarity": 0.7597866058349609,
+    "similarity": 0.7597865462303162,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.672900141216815
+    "latency_ms": 14.556254000012814
   },
   {
     "id": "q013",
@@ -150,10 +150,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "shipping_fee",
-    "similarity": 0.9402276277542114,
+    "similarity": 0.9402275681495667,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.696000084280968
+    "latency_ms": 13.540025999958516
   },
   {
     "id": "q014",
@@ -162,10 +162,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.681458055973053,
+    "similarity": 0.6814582347869873,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.542699990794063
+    "latency_ms": 14.567369000019426
   },
   {
     "id": "q015",
@@ -174,10 +174,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6221097111701965,
+    "similarity": 0.6221097707748413,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.672299998812377
+    "latency_ms": 14.552126999973325
   },
   {
     "id": "q016",
@@ -186,10 +186,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "cod",
-    "similarity": 0.7926086783409119,
+    "similarity": 0.7926086187362671,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.43039999809116
+    "latency_ms": 14.438910999984955
   },
   {
     "id": "q017",
@@ -201,7 +201,7 @@
     "similarity": 0.6029617190361023,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.081800111569464
+    "latency_ms": 13.451850000024024
   },
   {
     "id": "q018",
@@ -210,10 +210,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6368942260742188,
+    "similarity": 0.6368944048881531,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.718400000594556
+    "latency_ms": 14.821056000016597
   },
   {
     "id": "q019",
@@ -222,10 +222,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "failed_payment",
-    "similarity": 0.8752950429916382,
+    "similarity": 0.8752951622009277,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 32.766300020739436
+    "latency_ms": 15.030106000011756
   },
   {
     "id": "q020",
@@ -234,10 +234,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5218254923820496,
+    "similarity": 0.5218256711959839,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.632999937050045
+    "latency_ms": 14.913833999997905
   },
   {
     "id": "q021",
@@ -246,10 +246,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.7267686128616333,
+    "similarity": 0.7267688512802124,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.226699912920594
+    "latency_ms": 14.88889699999163
   },
   {
     "id": "q022",
@@ -261,7 +261,7 @@
     "similarity": 0.7732107639312744,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 30.440100003033876
+    "latency_ms": 15.76395200001457
   },
   {
     "id": "q023",
@@ -270,10 +270,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.677375853061676,
+    "similarity": 0.6773759126663208,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.456100051291287
+    "latency_ms": 14.364120000010416
   },
   {
     "id": "q024",
@@ -282,10 +282,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6150933504104614,
+    "similarity": 0.6150934100151062,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.88359990902245
+    "latency_ms": 14.147219999983918
   },
   {
     "id": "q025",
@@ -297,7 +297,7 @@
     "similarity": 0.635167121887207,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.788399930112064
+    "latency_ms": 15.011249000025373
   },
   {
     "id": "q026",
@@ -306,10 +306,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.19687457382678986,
+    "similarity": 0.19687452912330627,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.91049994993955
+    "latency_ms": 14.673298000019486
   },
   {
     "id": "q027",
@@ -318,10 +318,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.597528874874115,
+    "similarity": 0.5975289344787598,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.83190000243485
+    "latency_ms": 13.375889000002417
   },
   {
     "id": "q028",
@@ -330,10 +330,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5051097273826599,
+    "similarity": 0.5051096677780151,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.13959994353354
+    "latency_ms": 13.296041000018022
   },
   {
     "id": "q029",
@@ -342,10 +342,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "refund_method",
-    "similarity": 0.8740496635437012,
+    "similarity": 0.8740496039390564,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.35210000537336
+    "latency_ms": 14.539218999999548
   },
   {
     "id": "q030",
@@ -354,10 +354,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6225172877311707,
+    "similarity": 0.6225173473358154,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.88270004466176
+    "latency_ms": 14.248741000045584
   },
   {
     "id": "q031",
@@ -366,10 +366,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5867493748664856,
+    "similarity": 0.5867495536804199,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.2930999789387
+    "latency_ms": 14.661460000013449
   },
   {
     "id": "q032",
@@ -378,10 +378,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5917479991912842,
+    "similarity": 0.5917481184005737,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.751199970021844
+    "latency_ms": 14.74331099998949
   },
   {
     "id": "q033",
@@ -393,7 +393,7 @@
     "similarity": 0.5767475366592407,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.85369995702058
+    "latency_ms": 13.253929000001108
   },
   {
     "id": "q034",
@@ -402,10 +402,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.48673200607299805,
+    "similarity": 0.4867320954799652,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.686200014315546
+    "latency_ms": 14.68942200000356
   },
   {
     "id": "q035",
@@ -414,10 +414,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6788203716278076,
+    "similarity": 0.6788202524185181,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.910999979823828
+    "latency_ms": 14.73517999997398
   },
   {
     "id": "q036",
@@ -426,10 +426,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "weekend",
-    "similarity": 0.7961937189102173,
+    "similarity": 0.7961938381195068,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 28.835600009188056
+    "latency_ms": 14.336289999988594
   },
   {
     "id": "q037",
@@ -438,10 +438,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.37196534872055054,
+    "similarity": 0.37196511030197144,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.130399994552135
+    "latency_ms": 14.589104000037878
   },
   {
     "id": "q038",
@@ -450,10 +450,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.17689745128154755,
+    "similarity": 0.17689739167690277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.626900002360344
+    "latency_ms": 14.488454999991518
   },
   {
     "id": "q039",
@@ -462,10 +462,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3611947000026703,
+    "similarity": 0.3611947298049927,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.283300042152405
+    "latency_ms": 14.580150000000458
   },
   {
     "id": "q040",
@@ -474,10 +474,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6006890535354614,
+    "similarity": 0.600689172744751,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.028400011360645
+    "latency_ms": 14.523045000032653
   },
   {
     "id": "q041",
@@ -486,10 +486,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6534281373023987,
+    "similarity": 0.6534281969070435,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.430799975059927
+    "latency_ms": 14.555504000014707
   },
   {
     "id": "q042",
@@ -498,10 +498,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "invoice",
-    "similarity": 0.7957009077072144,
+    "similarity": 0.7957008481025696,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.562799842096865
+    "latency_ms": 14.590083999991066
   },
   {
     "id": "q043",
@@ -513,7 +513,7 @@
     "similarity": 0.7090014815330505,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.666600071825087
+    "latency_ms": 14.742920999992748
   },
   {
     "id": "q044",
@@ -525,7 +525,7 @@
     "similarity": 0.8592590093612671,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.419300029985607
+    "latency_ms": 14.666097000002765
   },
   {
     "id": "q045",
@@ -534,10 +534,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "delete_account",
-    "similarity": 0.8453062176704407,
+    "similarity": 0.8453060388565063,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 26.89570002257824
+    "latency_ms": 14.691284000008409
   },
   {
     "id": "q046",
@@ -546,10 +546,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "delete_account",
-    "similarity": 0.8137868642807007,
+    "similarity": 0.8137868046760559,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.004400056786835
+    "latency_ms": 13.420123999992484
   },
   {
     "id": "q047",
@@ -558,10 +558,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4778963327407837,
+    "similarity": 0.47789663076400757,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.432900038547814
+    "latency_ms": 14.595663999983799
   },
   {
     "id": "q048",
@@ -570,10 +570,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6442001461982727,
+    "similarity": 0.6442002058029175,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.883200069889426
+    "latency_ms": 14.441876999995884
   },
   {
     "id": "q049",
@@ -585,7 +585,7 @@
     "similarity": 0.4194904565811157,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.845599990338087
+    "latency_ms": 14.417078999997557
   },
   {
     "id": "q050",
@@ -594,10 +594,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3874727189540863,
+    "similarity": 0.3874727785587311,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.70600000116974
+    "latency_ms": 14.609393999990061
   },
   {
     "id": "q051",
@@ -606,10 +606,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3422665297985077,
+    "similarity": 0.3422665596008301,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.35990009084344
+    "latency_ms": 14.495005000014771
   },
   {
     "id": "q052",
@@ -618,10 +618,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4809243083000183,
+    "similarity": 0.48092424869537354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.878600034862757
+    "latency_ms": 14.936637000005248
   },
   {
     "id": "q053",
@@ -630,10 +630,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": "warranty",
-    "similarity": 0.7647057175636292,
+    "similarity": 0.7647055983543396,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 30.677100061438978
+    "latency_ms": 15.02237500000092
   },
   {
     "id": "q054",
@@ -642,10 +642,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": "warranty",
-    "similarity": 0.7549809217453003,
+    "similarity": 0.7549808621406555,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 32.05399995204061
+    "latency_ms": 14.916518000006818
   },
   {
     "id": "q055",
@@ -654,10 +654,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.7313738465309143,
+    "similarity": 0.7313739061355591,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.01569991465658
+    "latency_ms": 14.642522999992025
   },
   {
     "id": "q056",
@@ -666,10 +666,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6008458137512207,
+    "similarity": 0.6008460521697998,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.675600002519786
+    "latency_ms": 14.771392000000105
   },
   {
     "id": "q057",
@@ -678,10 +678,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5953477621078491,
+    "similarity": 0.5953478813171387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.69730002991855
+    "latency_ms": 15.171845000025996
   },
   {
     "id": "q058",
@@ -690,10 +690,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.7412004470825195,
+    "similarity": 0.7412006258964539,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.62920006737113
+    "latency_ms": 15.853493999998136
   },
   {
     "id": "q059",
@@ -702,10 +702,10 @@
     "language": "en",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6229509115219116,
+    "similarity": 0.6229508519172668,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.46770004928112
+    "latency_ms": 14.299475000001394
   },
   {
     "id": "q060",
@@ -714,10 +714,10 @@
     "language": "hinglish",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4368623197078705,
+    "similarity": 0.436862587928772,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 34.27229996304959
+    "latency_ms": 16.443536999986463
   },
   {
     "id": "q061",
@@ -726,10 +726,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5830721855163574,
+    "similarity": 0.5830719470977783,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.539099984802306
+    "latency_ms": 13.316530999986753
   },
   {
     "id": "q062",
@@ -738,10 +738,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.2979740798473358,
+    "similarity": 0.2979740500450134,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.844000047072768
+    "latency_ms": 13.23513000002663
   },
   {
     "id": "q063",
@@ -753,7 +753,7 @@
     "similarity": 0.8194530010223389,
     "reason": "negation_guard",
     "false_hit": false,
-    "latency_ms": 25.86770011112094
+    "latency_ms": 13.359113000007028
   },
   {
     "id": "q064",
@@ -762,10 +762,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.330087274312973,
+    "similarity": 0.33008742332458496,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.11159992497414
+    "latency_ms": 15.242099000005283
   },
   {
     "id": "q065",
@@ -777,7 +777,7 @@
     "similarity": 0.5282601118087769,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.10610004235059
+    "latency_ms": 14.504869000006693
   },
   {
     "id": "q066",
@@ -789,7 +789,7 @@
     "similarity": 0.6689236164093018,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.983900021761656
+    "latency_ms": 14.999651000010772
   },
   {
     "id": "q067",
@@ -798,10 +798,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5194751024246216,
+    "similarity": 0.5194752216339111,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.50439993198961
+    "latency_ms": 14.4286660000148
   },
   {
     "id": "q068",
@@ -810,10 +810,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3956024646759033,
+    "similarity": 0.3956025242805481,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.295799994841218
+    "latency_ms": 13.290240999992875
   },
   {
     "id": "q069",
@@ -822,10 +822,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3565393090248108,
+    "similarity": 0.35653936862945557,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.554299893788993
+    "latency_ms": 14.514552999997932
   },
   {
     "id": "q070",
@@ -834,10 +834,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.1251663714647293,
+    "similarity": 0.12516634166240692,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.825300047174096
+    "latency_ms": 14.638947999969787
   },
   {
     "id": "q071",
@@ -846,10 +846,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.2413882613182068,
+    "similarity": 0.24138838052749634,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.640499989502132
+    "latency_ms": 14.4423159999576
   },
   {
     "id": "q072",
@@ -858,10 +858,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.1326192021369934,
+    "similarity": 0.1326192319393158,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.024000094272196
+    "latency_ms": 14.49381300000141
   },
   {
     "id": "q073",
@@ -870,10 +870,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.2668502628803253,
+    "similarity": 0.26685023307800293,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.0883000921458
+    "latency_ms": 14.587982000023203
   },
   {
     "id": "q074",
@@ -882,10 +882,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.27478715777397156,
+    "similarity": 0.2747872471809387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.873900041915476
+    "latency_ms": 13.469167000010884
   },
   {
     "id": "q075",
@@ -894,10 +894,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.19242551922798157,
+    "similarity": 0.1924254596233368,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.23569997679442
+    "latency_ms": 13.035635999983697
   },
   {
     "id": "q076",
@@ -906,10 +906,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.30245232582092285,
+    "similarity": 0.3024523854255676,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.887099935673177
+    "latency_ms": 14.642622999986088
   },
   {
     "id": "q077",
@@ -918,10 +918,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.31936565041542053,
+    "similarity": 0.3193657398223877,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.5565999802202
+    "latency_ms": 14.51086800000212
   },
   {
     "id": "q078",
@@ -930,10 +930,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5445606708526611,
+    "similarity": 0.5445607900619507,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.235699933953583
+    "latency_ms": 14.503757000028372
   },
   {
     "id": "q079",
@@ -942,10 +942,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3771788477897644,
+    "similarity": 0.37717872858047485,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.49549995455891
+    "latency_ms": 14.578757999970549
   },
   {
     "id": "q080",
@@ -954,10 +954,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.37081030011177063,
+    "similarity": 0.3708101511001587,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.596100005321205
+    "latency_ms": 14.763630999993893
   },
   {
     "id": "q081",
@@ -966,10 +966,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3712010979652405,
+    "similarity": 0.37120118737220764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.45740001834929
+    "latency_ms": 14.57696600002123
   },
   {
     "id": "q082",
@@ -978,10 +978,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.2184094935655594,
+    "similarity": 0.21840962767601013,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.26579993031919
+    "latency_ms": 14.586148999995885
   },
   {
     "id": "q083",
@@ -990,10 +990,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.47128891944885254,
+    "similarity": 0.4712889492511749,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.962000061757863
+    "latency_ms": 14.171465000003991
   },
   {
     "id": "q084",
@@ -1002,10 +1002,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.34457045793533325,
+    "similarity": 0.344570517539978,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.01890010293573
+    "latency_ms": 14.751613999976598
   },
   {
     "id": "q085",
@@ -1014,10 +1014,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.44163772463798523,
+    "similarity": 0.44163778424263,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.400400114245713
+    "latency_ms": 13.357570999971813
   },
   {
     "id": "q086",
@@ -1026,10 +1026,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4358591139316559,
+    "similarity": 0.43585923314094543,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.322999995201826
+    "latency_ms": 14.536916999986715
   },
   {
     "id": "q087",
@@ -1038,10 +1038,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.6305425763130188,
+    "similarity": 0.630542516708374,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.97160009201616
+    "latency_ms": 15.106850000023542
   },
   {
     "id": "q088",
@@ -1050,10 +1050,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5488574504852295,
+    "similarity": 0.548857569694519,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.58170003350824
+    "latency_ms": 14.346754999991163
   },
   {
     "id": "q089",
@@ -1062,10 +1062,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.4983747601509094,
+    "similarity": 0.49837473034858704,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.674500063061714
+    "latency_ms": 14.609363999994684
   },
   {
     "id": "q090",
@@ -1074,10 +1074,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.3919593095779419,
+    "similarity": 0.3919592499732971,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.877499957568944
+    "latency_ms": 14.537467000025117
   },
   {
     "id": "q091",
@@ -1086,10 +1086,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.29495301842689514,
+    "similarity": 0.2949531674385071,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.894000014290214
+    "latency_ms": 14.960351999974364
   },
   {
     "id": "q092",
@@ -1098,10 +1098,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5198609232902527,
+    "similarity": 0.5198608636856079,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.695199992507696
+    "latency_ms": 14.941515000003847
   },
   {
     "id": "q093",
@@ -1110,10 +1110,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.2541050314903259,
+    "similarity": 0.25410500168800354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.97539997845888
+    "latency_ms": 13.287377000011702
   },
   {
     "id": "q094",
@@ -1122,10 +1122,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.448774516582489,
+    "similarity": 0.4487745761871338,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.04829999897629
+    "latency_ms": 13.304943000008507
   },
   {
     "id": "q095",
@@ -1134,10 +1134,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.5253684520721436,
+    "similarity": 0.525368332862854,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.86339994519949
+    "latency_ms": 15.038086999993538
   },
   {
     "id": "q096",
@@ -1146,10 +1146,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.43248450756073,
+    "similarity": 0.43248456716537476,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.98900008201599
+    "latency_ms": 14.618356999989146
   },
   {
     "id": "q097",
@@ -1161,7 +1161,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 29.6695000724867
+    "latency_ms": 14.50222500000109
   },
   {
     "id": "q098",
@@ -1173,7 +1173,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 30.141100054606795
+    "latency_ms": 15.212665000007064
   },
   {
     "id": "q099",
@@ -1185,7 +1185,7 @@
     "similarity": 0.40917766094207764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.45580002758652
+    "latency_ms": 14.66601799998557
   },
   {
     "id": "q100",
@@ -1194,10 +1194,10 @@
     "language": "mixed",
     "threshold": 0.75,
     "predicted": null,
-    "similarity": 0.44072961807250977,
+    "similarity": 0.4407294988632202,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.45009998884052
+    "latency_ms": 14.596454000013637
   },
   {
     "id": "q001",
@@ -1206,10 +1206,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "refund_time",
-    "similarity": 0.8627628087997437,
+    "similarity": 0.8627626299858093,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.546199969947338
+    "latency_ms": 14.356546999977127
   },
   {
     "id": "q002",
@@ -1218,10 +1218,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3386287987232208,
+    "similarity": 0.338628888130188,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.40110002923757
+    "latency_ms": 13.291774000038004
   },
   {
     "id": "q003",
@@ -1233,7 +1233,7 @@
     "similarity": 0.6554043292999268,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.224200036376715
+    "latency_ms": 14.855256000004147
   },
   {
     "id": "q004",
@@ -1242,10 +1242,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.40910354256629944,
+    "similarity": 0.4091036021709442,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.322200058028102
+    "latency_ms": 14.782238000009329
   },
   {
     "id": "q005",
@@ -1254,10 +1254,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4995056986808777,
+    "similarity": 0.49950581789016724,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.572099981829524
+    "latency_ms": 14.646897999966768
   },
   {
     "id": "q006",
@@ -1266,10 +1266,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5671682357788086,
+    "similarity": 0.5671682953834534,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.04260002449155
+    "latency_ms": 14.703771000000643
   },
   {
     "id": "q007",
@@ -1278,10 +1278,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "cancel",
-    "similarity": 0.8073591589927673,
+    "similarity": 0.807358980178833,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.66739994008094
+    "latency_ms": 14.921272999998791
   },
   {
     "id": "q008",
@@ -1290,10 +1290,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": "cancel",
-    "similarity": 0.8849256038665771,
+    "similarity": 0.8849255442619324,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.30890004709363
+    "latency_ms": 13.296669999988353
   },
   {
     "id": "q009",
@@ -1305,7 +1305,7 @@
     "similarity": 0.8804932832717896,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 28.620999888516963
+    "latency_ms": 14.806674000027442
   },
   {
     "id": "q010",
@@ -1314,10 +1314,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5805796384811401,
+    "similarity": 0.5805795192718506,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.444600037299097
+    "latency_ms": 14.646627999979955
   },
   {
     "id": "q011",
@@ -1326,10 +1326,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6791057586669922,
+    "similarity": 0.6791056394577026,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.759100008755922
+    "latency_ms": 14.672196000020676
   },
   {
     "id": "q012",
@@ -1338,10 +1338,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7597866058349609,
+    "similarity": 0.7597865462303162,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.66600008867681
+    "latency_ms": 14.550175000010768
   },
   {
     "id": "q013",
@@ -1350,10 +1350,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "shipping_fee",
-    "similarity": 0.9402276277542114,
+    "similarity": 0.9402275681495667,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.695699965581298
+    "latency_ms": 13.53982599997039
   },
   {
     "id": "q014",
@@ -1362,10 +1362,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.681458055973053,
+    "similarity": 0.6814582347869873,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.54319999460131
+    "latency_ms": 14.56685800002333
   },
   {
     "id": "q015",
@@ -1374,10 +1374,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6221097111701965,
+    "similarity": 0.6221097707748413,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.67189999576658
+    "latency_ms": 14.551555999986476
   },
   {
     "id": "q016",
@@ -1386,10 +1386,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7926086783409119,
+    "similarity": 0.7926086187362671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.426499968394637
+    "latency_ms": 14.433853000014096
   },
   {
     "id": "q017",
@@ -1401,7 +1401,7 @@
     "similarity": 0.6029617190361023,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.083000004291534
+    "latency_ms": 13.451309999993555
   },
   {
     "id": "q018",
@@ -1410,10 +1410,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6368942260742188,
+    "similarity": 0.6368944048881531,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.720000012777746
+    "latency_ms": 14.820045000021764
   },
   {
     "id": "q019",
@@ -1422,10 +1422,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "failed_payment",
-    "similarity": 0.8752950429916382,
+    "similarity": 0.8752951622009277,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 32.76910004206002
+    "latency_ms": 15.02888400003144
   },
   {
     "id": "q020",
@@ -1434,10 +1434,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5218254923820496,
+    "similarity": 0.5218256711959839,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.63389994390309
+    "latency_ms": 14.913303000014366
   },
   {
     "id": "q021",
@@ -1446,10 +1446,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7267686128616333,
+    "similarity": 0.7267688512802124,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.22770003695041
+    "latency_ms": 14.888356000000158
   },
   {
     "id": "q022",
@@ -1461,7 +1461,7 @@
     "similarity": 0.7732107639312744,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.434599961154163
+    "latency_ms": 15.758673000021872
   },
   {
     "id": "q023",
@@ -1470,10 +1470,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.677375853061676,
+    "similarity": 0.6773759126663208,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.45990008022636
+    "latency_ms": 14.364802000017107
   },
   {
     "id": "q024",
@@ -1482,10 +1482,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6150933504104614,
+    "similarity": 0.6150934100151062,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.885599924251437
+    "latency_ms": 14.14750099999651
   },
   {
     "id": "q025",
@@ -1497,7 +1497,7 @@
     "similarity": 0.635167121887207,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.789399937726557
+    "latency_ms": 15.010657000004812
   },
   {
     "id": "q026",
@@ -1506,10 +1506,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.19687457382678986,
+    "similarity": 0.19687452912330627,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.91179995983839
+    "latency_ms": 14.673128000026736
   },
   {
     "id": "q027",
@@ -1518,10 +1518,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.597528874874115,
+    "similarity": 0.5975289344787598,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.8318000016734
+    "latency_ms": 13.375687999996444
   },
   {
     "id": "q028",
@@ -1530,10 +1530,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5051097273826599,
+    "similarity": 0.5051096677780151,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.140599951148033
+    "latency_ms": 13.29571000002261
   },
   {
     "id": "q029",
@@ -1542,10 +1542,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "refund_method",
-    "similarity": 0.8740496635437012,
+    "similarity": 0.8740496039390564,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.355199912562966
+    "latency_ms": 14.5386789999975
   },
   {
     "id": "q030",
@@ -1554,10 +1554,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6225172877311707,
+    "similarity": 0.6225173473358154,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.8840000545606
+    "latency_ms": 14.24821900002371
   },
   {
     "id": "q031",
@@ -1566,10 +1566,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5867493748664856,
+    "similarity": 0.5867495536804199,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.294799991883337
+    "latency_ms": 14.660909000014044
   },
   {
     "id": "q032",
@@ -1578,10 +1578,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5917479991912842,
+    "similarity": 0.5917481184005737,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.752399979159236
+    "latency_ms": 14.742981000011923
   },
   {
     "id": "q033",
@@ -1593,7 +1593,7 @@
     "similarity": 0.5767475366592407,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.85529996920377
+    "latency_ms": 13.252877000013541
   },
   {
     "id": "q034",
@@ -1602,10 +1602,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.48673200607299805,
+    "similarity": 0.4867320954799652,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.687900027260184
+    "latency_ms": 14.688911000007465
   },
   {
     "id": "q035",
@@ -1614,10 +1614,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6788203716278076,
+    "similarity": 0.6788202524185181,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.912799877114594
+    "latency_ms": 14.734438999994381
   },
   {
     "id": "q036",
@@ -1626,10 +1626,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7961937189102173,
+    "similarity": 0.7961938381195068,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.83199998177588
+    "latency_ms": 14.332223999986127
   },
   {
     "id": "q037",
@@ -1638,10 +1638,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.37196534872055054,
+    "similarity": 0.37196511030197144,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.13120000064373
+    "latency_ms": 14.588162000023885
   },
   {
     "id": "q038",
@@ -1650,10 +1650,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.17689745128154755,
+    "similarity": 0.17689739167690277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.628400013782084
+    "latency_ms": 14.4882640000219
   },
   {
     "id": "q039",
@@ -1662,10 +1662,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3611947000026703,
+    "similarity": 0.3611947298049927,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.28530005738139
+    "latency_ms": 14.579610000026832
   },
   {
     "id": "q040",
@@ -1674,10 +1674,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6006890535354614,
+    "similarity": 0.600689172744751,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.030000023543835
+    "latency_ms": 14.522184000014704
   },
   {
     "id": "q041",
@@ -1686,10 +1686,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6534281373023987,
+    "similarity": 0.6534281969070435,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.432099984958768
+    "latency_ms": 14.555684000043811
   },
   {
     "id": "q042",
@@ -1698,10 +1698,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7957009077072144,
+    "similarity": 0.7957008481025696,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.558399925008416
+    "latency_ms": 14.586019000006445
   },
   {
     "id": "q043",
@@ -1713,7 +1713,7 @@
     "similarity": 0.7090014815330505,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.66739996150136
+    "latency_ms": 14.742870999981506
   },
   {
     "id": "q044",
@@ -1725,7 +1725,7 @@
     "similarity": 0.8592590093612671,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.422300052829087
+    "latency_ms": 14.665547000021206
   },
   {
     "id": "q045",
@@ -1734,10 +1734,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": "delete_account",
-    "similarity": 0.8453062176704407,
+    "similarity": 0.8453060388565063,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 26.898300042375922
+    "latency_ms": 14.690874000024223
   },
   {
     "id": "q046",
@@ -1746,10 +1746,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": "delete_account",
-    "similarity": 0.8137868642807007,
+    "similarity": 0.8137868046760559,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.006300071254373
+    "latency_ms": 13.419923999975936
   },
   {
     "id": "q047",
@@ -1758,10 +1758,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4778963327407837,
+    "similarity": 0.47789663076400757,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.434500050731003
+    "latency_ms": 14.594912999996268
   },
   {
     "id": "q048",
@@ -1770,10 +1770,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6442001461982727,
+    "similarity": 0.6442002058029175,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.884199961088598
+    "latency_ms": 14.441535999992539
   },
   {
     "id": "q049",
@@ -1785,7 +1785,7 @@
     "similarity": 0.4194904565811157,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.847800007089972
+    "latency_ms": 14.416318000002093
   },
   {
     "id": "q050",
@@ -1794,10 +1794,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3874727189540863,
+    "similarity": 0.3874727785587311,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.70770001411438
+    "latency_ms": 14.609223999997312
   },
   {
     "id": "q051",
@@ -1806,10 +1806,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3422665297985077,
+    "similarity": 0.3422665596008301,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.362200108356774
+    "latency_ms": 14.493902000026537
   },
   {
     "id": "q052",
@@ -1818,10 +1818,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4809243083000183,
+    "similarity": 0.48092424869537354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.880000045523047
+    "latency_ms": 14.945199999999659
   },
   {
     "id": "q053",
@@ -1830,10 +1830,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7647057175636292,
+    "similarity": 0.7647055983543396,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.671199900098145
+    "latency_ms": 15.017808000010291
   },
   {
     "id": "q054",
@@ -1842,10 +1842,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7549809217453003,
+    "similarity": 0.7549808621406555,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.05000003799796
+    "latency_ms": 14.91383300000848
   },
   {
     "id": "q055",
@@ -1854,10 +1854,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7313738465309143,
+    "similarity": 0.7313739061355591,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.018099932931364
+    "latency_ms": 14.64356299999281
   },
   {
     "id": "q056",
@@ -1866,10 +1866,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6008458137512207,
+    "similarity": 0.6008460521697998,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.667100054211915
+    "latency_ms": 14.771923999973069
   },
   {
     "id": "q057",
@@ -1878,10 +1878,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5953477621078491,
+    "similarity": 0.5953478813171387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.697100028395653
+    "latency_ms": 15.171535000007452
   },
   {
     "id": "q058",
@@ -1890,10 +1890,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.7412004470825195,
+    "similarity": 0.7412006258964539,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.628800064325333
+    "latency_ms": 15.852622000011252
   },
   {
     "id": "q059",
@@ -1902,10 +1902,10 @@
     "language": "en",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6229509115219116,
+    "similarity": 0.6229508519172668,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.468300053849816
+    "latency_ms": 14.298805000009907
   },
   {
     "id": "q060",
@@ -1914,10 +1914,10 @@
     "language": "hinglish",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4368623197078705,
+    "similarity": 0.436862587928772,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 34.27229996304959
+    "latency_ms": 16.443175999995674
   },
   {
     "id": "q061",
@@ -1926,10 +1926,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5830721855163574,
+    "similarity": 0.5830719470977783,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.539399987086654
+    "latency_ms": 13.31576999999129
   },
   {
     "id": "q062",
@@ -1938,10 +1938,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.2979740798473358,
+    "similarity": 0.2979740500450134,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.844800053164363
+    "latency_ms": 13.234799000002795
   },
   {
     "id": "q063",
@@ -1953,7 +1953,7 @@
     "similarity": 0.8194530010223389,
     "reason": "negation_guard",
     "false_hit": false,
-    "latency_ms": 25.867200107313693
+    "latency_ms": 13.358882999995103
   },
   {
     "id": "q064",
@@ -1962,10 +1962,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.330087274312973,
+    "similarity": 0.33008742332458496,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.11159992497414
+    "latency_ms": 15.24097700001903
   },
   {
     "id": "q065",
@@ -1977,7 +1977,7 @@
     "similarity": 0.5282601118087769,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.10640004463494
+    "latency_ms": 14.505499000023292
   },
   {
     "id": "q066",
@@ -1989,7 +1989,7 @@
     "similarity": 0.6689236164093018,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.9846000270918
+    "latency_ms": 14.998970000021927
   },
   {
     "id": "q067",
@@ -1998,10 +1998,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5194751024246216,
+    "similarity": 0.5194752216339111,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.50459993351251
+    "latency_ms": 14.427874999995538
   },
   {
     "id": "q068",
@@ -2010,10 +2010,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3956024646759033,
+    "similarity": 0.3956025242805481,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.29710000474006
+    "latency_ms": 13.289619999994784
   },
   {
     "id": "q069",
@@ -2022,10 +2022,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3565393090248108,
+    "similarity": 0.35653936862945557,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.555099899880588
+    "latency_ms": 14.513932999989265
   },
   {
     "id": "q070",
@@ -2034,10 +2034,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.1251663714647293,
+    "similarity": 0.12516634166240692,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.825400047935545
+    "latency_ms": 14.638335999990204
   },
   {
     "id": "q071",
@@ -2046,10 +2046,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.2413882613182068,
+    "similarity": 0.24138838052749634,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.641199994832277
+    "latency_ms": 14.441575999995848
   },
   {
     "id": "q072",
@@ -2058,10 +2058,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.1326192021369934,
+    "similarity": 0.1326192319393158,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.024200095795095
+    "latency_ms": 14.493040999980167
   },
   {
     "id": "q073",
@@ -2070,10 +2070,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.2668502628803253,
+    "similarity": 0.26685023307800293,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.089500101283193
+    "latency_ms": 14.587702000000036
   },
   {
     "id": "q074",
@@ -2082,10 +2082,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.27478715777397156,
+    "similarity": 0.2747872471809387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.87460004724562
+    "latency_ms": 13.46891600002209
   },
   {
     "id": "q075",
@@ -2094,10 +2094,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.19242551922798157,
+    "similarity": 0.1924254596233368,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.23579997755587
+    "latency_ms": 13.035044999980983
   },
   {
     "id": "q076",
@@ -2106,10 +2106,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.30245232582092285,
+    "similarity": 0.3024523854255676,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.887799941003323
+    "latency_ms": 14.64248399997814
   },
   {
     "id": "q077",
@@ -2118,10 +2118,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.31936565041542053,
+    "similarity": 0.3193657398223877,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.557199984788895
+    "latency_ms": 14.510706999971035
   },
   {
     "id": "q078",
@@ -2130,10 +2130,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5445606708526611,
+    "similarity": 0.5445607900619507,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.23599993623793
+    "latency_ms": 14.503727999993998
   },
   {
     "id": "q079",
@@ -2142,10 +2142,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3771788477897644,
+    "similarity": 0.37717872858047485,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.49539995379746
+    "latency_ms": 14.578827999997657
   },
   {
     "id": "q080",
@@ -2154,10 +2154,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.37081030011177063,
+    "similarity": 0.3708101511001587,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.59720001369715
+    "latency_ms": 14.763090000030843
   },
   {
     "id": "q081",
@@ -2166,10 +2166,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3712010979652405,
+    "similarity": 0.37120118737220764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.456400010734797
+    "latency_ms": 14.57472199999188
   },
   {
     "id": "q082",
@@ -2178,10 +2178,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.2184094935655594,
+    "similarity": 0.21840962767601013,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.264799922704697
+    "latency_ms": 14.576665000021194
   },
   {
     "id": "q083",
@@ -2190,10 +2190,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.47128891944885254,
+    "similarity": 0.4712889492511749,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.959900045767426
+    "latency_ms": 14.170144000019036
   },
   {
     "id": "q084",
@@ -2202,10 +2202,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.34457045793533325,
+    "similarity": 0.344570517539978,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.017200089991093
+    "latency_ms": 14.748929999996108
   },
   {
     "id": "q085",
@@ -2214,10 +2214,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.44163772463798523,
+    "similarity": 0.44163778424263,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.399399990215898
+    "latency_ms": 13.354405999990604
   },
   {
     "id": "q086",
@@ -2226,10 +2226,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4358591139316559,
+    "similarity": 0.43585923314094543,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.321999987587333
+    "latency_ms": 14.534723999986454
   },
   {
     "id": "q087",
@@ -2238,10 +2238,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.6305425763130188,
+    "similarity": 0.630542516708374,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.954300076700747
+    "latency_ms": 15.106008000003612
   },
   {
     "id": "q088",
@@ -2250,10 +2250,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5488574504852295,
+    "similarity": 0.548857569694519,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.580799910239875
+    "latency_ms": 14.344601999994211
   },
   {
     "id": "q089",
@@ -2262,10 +2262,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.4983747601509094,
+    "similarity": 0.49837473034858704,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.689600061625242
+    "latency_ms": 14.607802000000447
   },
   {
     "id": "q090",
@@ -2274,10 +2274,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.3919593095779419,
+    "similarity": 0.3919592499732971,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.877199955284595
+    "latency_ms": 14.537286000006588
   },
   {
     "id": "q091",
@@ -2286,10 +2286,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.29495301842689514,
+    "similarity": 0.2949531674385071,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.892700004391372
+    "latency_ms": 14.957778999985294
   },
   {
     "id": "q092",
@@ -2298,10 +2298,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5198609232902527,
+    "similarity": 0.5198608636856079,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.69319997727871
+    "latency_ms": 14.938500999960524
   },
   {
     "id": "q093",
@@ -2310,10 +2310,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.2541050314903259,
+    "similarity": 0.25410500168800354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.974399970844388
+    "latency_ms": 13.286426000007623
   },
   {
     "id": "q094",
@@ -2322,10 +2322,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.448774516582489,
+    "similarity": 0.4487745761871338,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.04850000049919
+    "latency_ms": 13.303041000000349
   },
   {
     "id": "q095",
@@ -2334,10 +2334,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.5253684520721436,
+    "similarity": 0.525368332862854,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.86240005400032
+    "latency_ms": 15.037505999998757
   },
   {
     "id": "q096",
@@ -2346,10 +2346,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.43248450756073,
+    "similarity": 0.43248456716537476,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.988199959509075
+    "latency_ms": 14.616743999994242
   },
   {
     "id": "q097",
@@ -2361,7 +2361,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 29.668800067156553
+    "latency_ms": 14.501623999990443
   },
   {
     "id": "q098",
@@ -2373,7 +2373,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 30.141000053845346
+    "latency_ms": 15.21235499998852
   },
   {
     "id": "q099",
@@ -2385,7 +2385,7 @@
     "similarity": 0.40917766094207764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.45550002530217
+    "latency_ms": 14.66389399999457
   },
   {
     "id": "q100",
@@ -2394,10 +2394,10 @@
     "language": "mixed",
     "threshold": 0.8,
     "predicted": null,
-    "similarity": 0.44072961807250977,
+    "similarity": 0.4407294988632202,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.449199981987476
+    "latency_ms": 14.594842000036579
   },
   {
     "id": "q001",
@@ -2406,10 +2406,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": "refund_time",
-    "similarity": 0.8627628087997437,
+    "similarity": 0.8627626299858093,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.544999960809946
+    "latency_ms": 14.353843999998617
   },
   {
     "id": "q002",
@@ -2418,10 +2418,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3386287987232208,
+    "similarity": 0.338628888130188,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.39950001705438
+    "latency_ms": 13.291102000010824
   },
   {
     "id": "q003",
@@ -2433,7 +2433,7 @@
     "similarity": 0.6554043292999268,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.223100028000772
+    "latency_ms": 14.853802999994059
   },
   {
     "id": "q004",
@@ -2442,10 +2442,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.40910354256629944,
+    "similarity": 0.4091036021709442,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.32080004736781
+    "latency_ms": 14.781146000018452
   },
   {
     "id": "q005",
@@ -2454,10 +2454,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4995056986808777,
+    "similarity": 0.49950581789016724,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.570499969646335
+    "latency_ms": 14.645556000004945
   },
   {
     "id": "q006",
@@ -2466,10 +2466,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5671682357788086,
+    "similarity": 0.5671682953834534,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.04390003439039
+    "latency_ms": 14.703410999999278
   },
   {
     "id": "q007",
@@ -2478,10 +2478,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.8073591589927673,
+    "similarity": 0.807358980178833,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.66170001309365
+    "latency_ms": 14.916426000013416
   },
   {
     "id": "q008",
@@ -2490,10 +2490,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": "cancel",
-    "similarity": 0.8849256038665771,
+    "similarity": 0.8849255442619324,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.30740003567189
+    "latency_ms": 13.29635999999823
   },
   {
     "id": "q009",
@@ -2505,7 +2505,7 @@
     "similarity": 0.8804932832717896,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 28.619499993510544
+    "latency_ms": 14.805873000000247
   },
   {
     "id": "q010",
@@ -2514,10 +2514,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5805796384811401,
+    "similarity": 0.5805795192718506,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.44410014990717
+    "latency_ms": 14.64494600000421
   },
   {
     "id": "q011",
@@ -2526,10 +2526,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6791057586669922,
+    "similarity": 0.6791056394577026,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.75779999885708
+    "latency_ms": 14.671334000013303
   },
   {
     "id": "q012",
@@ -2538,10 +2538,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7597866058349609,
+    "similarity": 0.7597865462303162,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.665600085631013
+    "latency_ms": 14.549825000017336
   },
   {
     "id": "q013",
@@ -2550,10 +2550,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": "shipping_fee",
-    "similarity": 0.9402276277542114,
+    "similarity": 0.9402275681495667,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.69580008275807
+    "latency_ms": 13.538713999963647
   },
   {
     "id": "q014",
@@ -2562,10 +2562,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.681458055973053,
+    "similarity": 0.6814582347869873,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.554599964991212
+    "latency_ms": 14.571955999997499
   },
   {
     "id": "q015",
@@ -2574,10 +2574,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6221097111701965,
+    "similarity": 0.6221097707748413,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.67209999728948
+    "latency_ms": 14.551535999999032
   },
   {
     "id": "q016",
@@ -2586,10 +2586,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7926086783409119,
+    "similarity": 0.7926086187362671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.42479995545
+    "latency_ms": 14.433421999996199
   },
   {
     "id": "q017",
@@ -2601,7 +2601,7 @@
     "similarity": 0.6029617190361023,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.081699994392693
+    "latency_ms": 13.450889000012012
   },
   {
     "id": "q018",
@@ -2610,10 +2610,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6368942260742188,
+    "similarity": 0.6368944048881531,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.718299999833107
+    "latency_ms": 14.82013400001847
   },
   {
     "id": "q019",
@@ -2622,10 +2622,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": "failed_payment",
-    "similarity": 0.8752950429916382,
+    "similarity": 0.8752951622009277,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 32.76590001769364
+    "latency_ms": 15.028574000012895
   },
   {
     "id": "q020",
@@ -2634,10 +2634,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5218254923820496,
+    "similarity": 0.5218256711959839,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.63329993933439
+    "latency_ms": 14.912871999996469
   },
   {
     "id": "q021",
@@ -2646,10 +2646,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7267686128616333,
+    "similarity": 0.7267688512802124,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.227200033143163
+    "latency_ms": 14.887634999979582
   },
   {
     "id": "q022",
@@ -2661,7 +2661,7 @@
     "similarity": 0.7732107639312744,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.433199950493872
+    "latency_ms": 15.757571999984066
   },
   {
     "id": "q023",
@@ -2670,10 +2670,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.677375853061676,
+    "similarity": 0.6773759126663208,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.456300052814186
+    "latency_ms": 14.363520000017616
   },
   {
     "id": "q024",
@@ -2682,10 +2682,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6150933504104614,
+    "similarity": 0.6150934100151062,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.8836999097839
+    "latency_ms": 14.14684999997462
   },
   {
     "id": "q025",
@@ -2697,7 +2697,7 @@
     "similarity": 0.635167121887207,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.788600048050284
+    "latency_ms": 15.010488000001487
   },
   {
     "id": "q026",
@@ -2706,10 +2706,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.19687457382678986,
+    "similarity": 0.19687452912330627,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.91049994993955
+    "latency_ms": 14.672527000016089
   },
   {
     "id": "q027",
@@ -2718,10 +2718,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.597528874874115,
+    "similarity": 0.5975289344787598,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.8316000001505
+    "latency_ms": 13.374727000012854
   },
   {
     "id": "q028",
@@ -2730,10 +2730,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5051097273826599,
+    "similarity": 0.5051096677780151,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.139999946579337
+    "latency_ms": 13.295110000001387
   },
   {
     "id": "q029",
@@ -2742,10 +2742,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": "refund_method",
-    "similarity": 0.8740496635437012,
+    "similarity": 0.8740496039390564,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 27.352400007657707
+    "latency_ms": 14.538467999983595
   },
   {
     "id": "q030",
@@ -2754,10 +2754,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6225172877311707,
+    "similarity": 0.6225173473358154,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.883400049991906
+    "latency_ms": 14.248409000032325
   },
   {
     "id": "q031",
@@ -2766,10 +2766,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5867493748664856,
+    "similarity": 0.5867495536804199,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.2930999789387
+    "latency_ms": 14.660539000033168
   },
   {
     "id": "q032",
@@ -2778,10 +2778,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5917479991912842,
+    "similarity": 0.5917481184005737,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.75169997382909
+    "latency_ms": 14.751833000019587
   },
   {
     "id": "q033",
@@ -2793,7 +2793,7 @@
     "similarity": 0.5767475366592407,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.854499963112175
+    "latency_ms": 13.252837000010231
   },
   {
     "id": "q034",
@@ -2802,10 +2802,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.48673200607299805,
+    "similarity": 0.4867320954799652,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.68690001964569
+    "latency_ms": 14.68880100000547
   },
   {
     "id": "q035",
@@ -2814,10 +2814,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6788203716278076,
+    "similarity": 0.6788202524185181,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.911299982108176
+    "latency_ms": 14.734849999996413
   },
   {
     "id": "q036",
@@ -2826,10 +2826,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7961937189102173,
+    "similarity": 0.7961938381195068,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.830999974161386
+    "latency_ms": 14.332533000015246
   },
   {
     "id": "q037",
@@ -2838,10 +2838,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.37196534872055054,
+    "similarity": 0.37196511030197144,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.130099992267787
+    "latency_ms": 14.588603000021294
   },
   {
     "id": "q038",
@@ -2850,10 +2850,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.17689745128154755,
+    "similarity": 0.17689739167690277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.62740000616759
+    "latency_ms": 14.488043999989486
   },
   {
     "id": "q039",
@@ -2862,10 +2862,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3611947000026703,
+    "similarity": 0.3611947298049927,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.283500043675303
+    "latency_ms": 14.579289000010931
   },
   {
     "id": "q040",
@@ -2874,10 +2874,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6006890535354614,
+    "similarity": 0.600689172744751,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.065699946135283
+    "latency_ms": 14.522183999986282
   },
   {
     "id": "q041",
@@ -2886,10 +2886,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6534281373023987,
+    "similarity": 0.6534281969070435,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.43159998115152
+    "latency_ms": 14.5547230000318
   },
   {
     "id": "q042",
@@ -2898,10 +2898,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7957009077072144,
+    "similarity": 0.7957008481025696,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.55789992120117
+    "latency_ms": 14.58555799999317
   },
   {
     "id": "q043",
@@ -2913,7 +2913,7 @@
     "similarity": 0.7090014815330505,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.666600071825087
+    "latency_ms": 14.742349999977478
   },
   {
     "id": "q044",
@@ -2925,7 +2925,7 @@
     "similarity": 0.8592590093612671,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 29.4203000376001
+    "latency_ms": 14.665535999995427
   },
   {
     "id": "q045",
@@ -2934,10 +2934,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.8453062176704407,
+    "similarity": 0.8453060388565063,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.890500099398196
+    "latency_ms": 14.68677800002638
   },
   {
     "id": "q046",
@@ -2946,10 +2946,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.8137868642807007,
+    "similarity": 0.8137868046760559,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.00060002785176
+    "latency_ms": 13.416678999988108
   },
   {
     "id": "q047",
@@ -2958,10 +2958,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4778963327407837,
+    "similarity": 0.47789663076400757,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.432800154201686
+    "latency_ms": 14.594652999988966
   },
   {
     "id": "q048",
@@ -2970,10 +2970,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6442001461982727,
+    "similarity": 0.6442002058029175,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.883300070650876
+    "latency_ms": 14.441265000016301
   },
   {
     "id": "q049",
@@ -2985,7 +2985,7 @@
     "similarity": 0.4194904565811157,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.845599990338087
+    "latency_ms": 14.416227999987541
   },
   {
     "id": "q050",
@@ -2994,10 +2994,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3874727189540863,
+    "similarity": 0.3874727785587311,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.706500004976988
+    "latency_ms": 14.609323999991375
   },
   {
     "id": "q051",
@@ -3006,10 +3006,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3422665297985077,
+    "similarity": 0.3422665596008301,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.360300093889236
+    "latency_ms": 14.49410300003251
   },
   {
     "id": "q052",
@@ -3018,10 +3018,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4809243083000183,
+    "similarity": 0.48092424869537354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.880700050853193
+    "latency_ms": 14.936756999986756
   },
   {
     "id": "q053",
@@ -3030,10 +3030,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7647057175636292,
+    "similarity": 0.7647055983543396,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.67070001270622
+    "latency_ms": 15.016867000014145
   },
   {
     "id": "q054",
@@ -3042,10 +3042,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7549809217453003,
+    "similarity": 0.7549808621406555,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.048100023530424
+    "latency_ms": 14.912232000000358
   },
   {
     "id": "q055",
@@ -3054,10 +3054,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7313738465309143,
+    "similarity": 0.7313739061355591,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.015899916179478
+    "latency_ms": 14.642321999986052
   },
   {
     "id": "q056",
@@ -3066,10 +3066,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6008458137512207,
+    "similarity": 0.6008460521697998,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.665500042028725
+    "latency_ms": 14.771081999981561
   },
   {
     "id": "q057",
@@ -3078,10 +3078,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5953477621078491,
+    "similarity": 0.5953478813171387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.698400038294494
+    "latency_ms": 15.171665000025314
   },
   {
     "id": "q058",
@@ -3090,10 +3090,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.7412004470825195,
+    "similarity": 0.7412006258964539,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.62930006813258
+    "latency_ms": 15.852332999997998
   },
   {
     "id": "q059",
@@ -3102,10 +3102,10 @@
     "language": "en",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6229509115219116,
+    "similarity": 0.6229508519172668,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.468100052326918
+    "latency_ms": 14.298633999970889
   },
   {
     "id": "q060",
@@ -3114,10 +3114,10 @@
     "language": "hinglish",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4368623197078705,
+    "similarity": 0.436862587928772,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 34.27359997294843
+    "latency_ms": 16.44312599998443
   },
   {
     "id": "q061",
@@ -3126,10 +3126,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5830721855163574,
+    "similarity": 0.5830719470977783,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.539399987086654
+    "latency_ms": 13.315870000013774
   },
   {
     "id": "q062",
@@ -3138,10 +3138,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.2979740798473358,
+    "similarity": 0.2979740500450134,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.845900061540306
+    "latency_ms": 13.234579000027225
   },
   {
     "id": "q063",
@@ -3153,7 +3153,7 @@
     "similarity": 0.8194530010223389,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.862400070764124
+    "latency_ms": 13.354456000001846
   },
   {
     "id": "q064",
@@ -3162,10 +3162,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.330087274312973,
+    "similarity": 0.33008742332458496,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.11149980779737
+    "latency_ms": 15.24100800000383
   },
   {
     "id": "q065",
@@ -3177,7 +3177,7 @@
     "similarity": 0.5282601118087769,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.10610004235059
+    "latency_ms": 14.504438000017217
   },
   {
     "id": "q066",
@@ -3189,7 +3189,7 @@
     "similarity": 0.6689236164093018,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.984000022523105
+    "latency_ms": 14.999461000002157
   },
   {
     "id": "q067",
@@ -3198,10 +3198,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5194751024246216,
+    "similarity": 0.5194752216339111,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.504699934273958
+    "latency_ms": 14.428215000009459
   },
   {
     "id": "q068",
@@ -3210,10 +3210,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3956024646759033,
+    "similarity": 0.3956025242805481,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.295999996364117
+    "latency_ms": 13.289329999992106
   },
   {
     "id": "q069",
@@ -3222,10 +3222,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3565393090248108,
+    "similarity": 0.35653936862945557,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.55469989683479
+    "latency_ms": 14.514873999985412
   },
   {
     "id": "q070",
@@ -3234,10 +3234,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.1251663714647293,
+    "similarity": 0.12516634166240692,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.844800079241395
+    "latency_ms": 14.638817999980347
   },
   {
     "id": "q071",
@@ -3246,10 +3246,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.2413882613182068,
+    "similarity": 0.24138838052749634,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.64069999102503
+    "latency_ms": 14.442295999970156
   },
   {
     "id": "q072",
@@ -3258,10 +3258,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.1326192021369934,
+    "similarity": 0.1326192319393158,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.024000094272196
+    "latency_ms": 14.493012000002636
   },
   {
     "id": "q073",
@@ -3270,10 +3270,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.2668502628803253,
+    "similarity": 0.26685023307800293,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.088800095953047
+    "latency_ms": 14.587460999990753
   },
   {
     "id": "q074",
@@ -3282,10 +3282,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.27478715777397156,
+    "similarity": 0.2747872471809387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.873900041915476
+    "latency_ms": 13.469116999999642
   },
   {
     "id": "q075",
@@ -3294,10 +3294,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.19242551922798157,
+    "similarity": 0.1924254596233368,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.23569997679442
+    "latency_ms": 13.034923999981629
   },
   {
     "id": "q076",
@@ -3306,10 +3306,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.30245232582092285,
+    "similarity": 0.3024523854255676,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.888599947094917
+    "latency_ms": 14.642803999976195
   },
   {
     "id": "q077",
@@ -3318,10 +3318,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.31936565041542053,
+    "similarity": 0.3193657398223877,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.56230002362281
+    "latency_ms": 14.511448999996901
   },
   {
     "id": "q078",
@@ -3330,10 +3330,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5445606708526611,
+    "similarity": 0.5445607900619507,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.24229998420924
+    "latency_ms": 14.50455900001657
   },
   {
     "id": "q079",
@@ -3342,10 +3342,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3771788477897644,
+    "similarity": 0.37717872858047485,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.496199959889054
+    "latency_ms": 14.578957999987097
   },
   {
     "id": "q080",
@@ -3354,10 +3354,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.37081030011177063,
+    "similarity": 0.3708101511001587,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.60100004263222
+    "latency_ms": 14.765113999999357
   },
   {
     "id": "q081",
@@ -3366,10 +3366,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3712010979652405,
+    "similarity": 0.37120118737220764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.463699949905276
+    "latency_ms": 14.574862000017674
   },
   {
     "id": "q082",
@@ -3378,10 +3378,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.2184094935655594,
+    "similarity": 0.21840962767601013,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.27039996534586
+    "latency_ms": 14.576725000011947
   },
   {
     "id": "q083",
@@ -3390,10 +3390,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.47128891944885254,
+    "similarity": 0.4712889492511749,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.967700105160475
+    "latency_ms": 14.169934000022977
   },
   {
     "id": "q084",
@@ -3402,10 +3402,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.34457045793533325,
+    "similarity": 0.344570517539978,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.018300098367035
+    "latency_ms": 14.749720999986948
   },
   {
     "id": "q085",
@@ -3414,10 +3414,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.44163772463798523,
+    "similarity": 0.44163778424263,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.400099995546043
+    "latency_ms": 13.354906999978766
   },
   {
     "id": "q086",
@@ -3426,10 +3426,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4358591139316559,
+    "similarity": 0.43585923314094543,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.321999987587333
+    "latency_ms": 14.534573999981149
   },
   {
     "id": "q087",
@@ -3438,10 +3438,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.6305425763130188,
+    "similarity": 0.630542516708374,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.95939999911934
+    "latency_ms": 15.105887999993683
   },
   {
     "id": "q088",
@@ -3450,10 +3450,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5488574504852295,
+    "similarity": 0.548857569694519,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.580700025893748
+    "latency_ms": 14.34509299997444
   },
   {
     "id": "q089",
@@ -3462,10 +3462,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.4983747601509094,
+    "similarity": 0.49837473034858704,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.67380005773157
+    "latency_ms": 14.607511000008344
   },
   {
     "id": "q090",
@@ -3474,10 +3474,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.3919593095779419,
+    "similarity": 0.3919592499732971,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.87629994843155
+    "latency_ms": 14.537346999986767
   },
   {
     "id": "q091",
@@ -3486,10 +3486,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.29495301842689514,
+    "similarity": 0.2949531674385071,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.89290000591427
+    "latency_ms": 14.958168999953614
   },
   {
     "id": "q092",
@@ -3498,10 +3498,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5198609232902527,
+    "similarity": 0.5198608636856079,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.69309986010194
+    "latency_ms": 14.938660999973763
   },
   {
     "id": "q093",
@@ -3510,10 +3510,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.2541050314903259,
+    "similarity": 0.25410500168800354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.989800088107586
+    "latency_ms": 13.286174999990408
   },
   {
     "id": "q094",
@@ -3522,10 +3522,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.448774516582489,
+    "similarity": 0.4487745761871338,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.05580005608499
+    "latency_ms": 13.303089999993745
   },
   {
     "id": "q095",
@@ -3534,10 +3534,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.5253684520721436,
+    "similarity": 0.525368332862854,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.871700008399785
+    "latency_ms": 15.037056000011262
   },
   {
     "id": "q096",
@@ -3546,10 +3546,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.43248450756073,
+    "similarity": 0.43248456716537476,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.99339999910444
+    "latency_ms": 14.616764000010107
   },
   {
     "id": "q097",
@@ -3561,7 +3561,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 29.670300078578293
+    "latency_ms": 14.501604000002999
   },
   {
     "id": "q098",
@@ -3573,7 +3573,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 30.141300056129694
+    "latency_ms": 15.21239499999183
   },
   {
     "id": "q099",
@@ -3585,7 +3585,7 @@
     "similarity": 0.40917766094207764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.460299945436418
+    "latency_ms": 14.664194999994606
   },
   {
     "id": "q100",
@@ -3594,10 +3594,10 @@
     "language": "mixed",
     "threshold": 0.85,
     "predicted": null,
-    "similarity": 0.44072961807250977,
+    "similarity": 0.4407294988632202,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.45510002691299
+    "latency_ms": 14.594673000004832
   },
   {
     "id": "q001",
@@ -3606,10 +3606,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8627628087997437,
+    "similarity": 0.8627626299858093,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.551099890843034
+    "latency_ms": 14.348827000020492
   },
   {
     "id": "q002",
@@ -3618,10 +3618,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3386287987232208,
+    "similarity": 0.338628888130188,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.4040000513196
+    "latency_ms": 13.291393000002927
   },
   {
     "id": "q003",
@@ -3633,7 +3633,7 @@
     "similarity": 0.6554043292999268,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.228299951180816
+    "latency_ms": 14.854213999996091
   },
   {
     "id": "q004",
@@ -3642,10 +3642,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.40910354256629944,
+    "similarity": 0.4091036021709442,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.327900101430714
+    "latency_ms": 14.782027000023845
   },
   {
     "id": "q005",
@@ -3654,10 +3654,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4995056986808777,
+    "similarity": 0.49950581789016724,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.5797999240458
+    "latency_ms": 14.64623699999379
   },
   {
     "id": "q006",
@@ -3666,10 +3666,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5671682357788086,
+    "similarity": 0.5671682953834534,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.048799955286086
+    "latency_ms": 14.70355099999665
   },
   {
     "id": "q007",
@@ -3678,10 +3678,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8073591589927673,
+    "similarity": 0.807358980178833,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.667500057257712
+    "latency_ms": 14.91656600001079
   },
   {
     "id": "q008",
@@ -3690,10 +3690,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8849256038665771,
+    "similarity": 0.8849255442619324,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.308999931439757
+    "latency_ms": 13.293496000017058
   },
   {
     "id": "q009",
@@ -3705,7 +3705,7 @@
     "similarity": 0.8804932832717896,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.620500001125038
+    "latency_ms": 14.80246799999918
   },
   {
     "id": "q010",
@@ -3714,10 +3714,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5805796384811401,
+    "similarity": 0.5805795192718506,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.44880006927997
+    "latency_ms": 14.644865999997592
   },
   {
     "id": "q011",
@@ -3726,10 +3726,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6791057586669922,
+    "similarity": 0.6791056394577026,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.776900027878582
+    "latency_ms": 14.671585000002096
   },
   {
     "id": "q012",
@@ -3738,10 +3738,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7597866058349609,
+    "similarity": 0.7597865462303162,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.674100033938885
+    "latency_ms": 14.54961400000343
   },
   {
     "id": "q013",
@@ -3750,10 +3750,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": "shipping_fee",
-    "similarity": 0.9402276277542114,
+    "similarity": 0.9402275681495667,
     "reason": "hit",
     "false_hit": false,
-    "latency_ms": 25.70600004401058
+    "latency_ms": 13.538794999959691
   },
   {
     "id": "q014",
@@ -3762,10 +3762,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.681458055973053,
+    "similarity": 0.6814582347869873,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.548000031150877
+    "latency_ms": 14.566688999991584
   },
   {
     "id": "q015",
@@ -3774,10 +3774,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6221097111701965,
+    "similarity": 0.6221097707748413,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.676499914377928
+    "latency_ms": 14.562281999985771
   },
   {
     "id": "q016",
@@ -3786,10 +3786,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7926086783409119,
+    "similarity": 0.7926086187362671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.429599991999567
+    "latency_ms": 14.433452000019997
   },
   {
     "id": "q017",
@@ -3801,7 +3801,7 @@
     "similarity": 0.6029617190361023,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.087000034749508
+    "latency_ms": 13.451180000004115
   },
   {
     "id": "q018",
@@ -3810,10 +3810,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6368942260742188,
+    "similarity": 0.6368944048881531,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.722700033336878
+    "latency_ms": 14.819915000003903
   },
   {
     "id": "q019",
@@ -3822,10 +3822,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8752950429916382,
+    "similarity": 0.8752951622009277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.76400011964142
+    "latency_ms": 15.022995000009587
   },
   {
     "id": "q020",
@@ -3834,10 +3834,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5218254923820496,
+    "similarity": 0.5218256711959839,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.638799981214106
+    "latency_ms": 14.912632000005033
   },
   {
     "id": "q021",
@@ -3846,10 +3846,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7267686128616333,
+    "similarity": 0.7267688512802124,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.23189995251596
+    "latency_ms": 14.887403999978233
   },
   {
     "id": "q022",
@@ -3861,7 +3861,7 @@
     "similarity": 0.7732107639312744,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.438399990089238
+    "latency_ms": 15.757522000001245
   },
   {
     "id": "q023",
@@ -3870,10 +3870,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.677375853061676,
+    "similarity": 0.6773759126663208,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.460499968379736
+    "latency_ms": 14.363468999988527
   },
   {
     "id": "q024",
@@ -3882,10 +3882,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6150933504104614,
+    "similarity": 0.6150934100151062,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.887699940241873
+    "latency_ms": 14.14671999998518
   },
   {
     "id": "q025",
@@ -3897,7 +3897,7 @@
     "similarity": 0.635167121887207,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.793000081554055
+    "latency_ms": 15.01024600000278
   },
   {
     "id": "q026",
@@ -3906,10 +3906,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.19687457382678986,
+    "similarity": 0.19687452912330627,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.91599987540394
+    "latency_ms": 14.673388000005616
   },
   {
     "id": "q027",
@@ -3918,10 +3918,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.597528874874115,
+    "similarity": 0.5975289344787598,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.83620003517717
+    "latency_ms": 13.374717000004921
   },
   {
     "id": "q028",
@@ -3930,10 +3930,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5051097273826599,
+    "similarity": 0.5051096677780151,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.14419997856021
+    "latency_ms": 13.295218999985536
   },
   {
     "id": "q029",
@@ -3942,10 +3942,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8740496635437012,
+    "similarity": 0.8740496039390564,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.350499876774848
+    "latency_ms": 14.533741000008149
   },
   {
     "id": "q030",
@@ -3954,10 +3954,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6225172877311707,
+    "similarity": 0.6225173473358154,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.88730007968843
+    "latency_ms": 14.248751000025095
   },
   {
     "id": "q031",
@@ -3966,10 +3966,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5867493748664856,
+    "similarity": 0.5867495536804199,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.298299902118742
+    "latency_ms": 14.660538000015322
   },
   {
     "id": "q032",
@@ -3978,10 +3978,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5917479991912842,
+    "similarity": 0.5917481184005737,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.755300001241267
+    "latency_ms": 14.742670000003955
   },
   {
     "id": "q033",
@@ -3993,7 +3993,7 @@
     "similarity": 0.5767475366592407,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.8581999912858
+    "latency_ms": 13.252877000013541
   },
   {
     "id": "q034",
@@ -4002,10 +4002,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.48673200607299805,
+    "similarity": 0.4867320954799652,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.690899933688343
+    "latency_ms": 14.688519999992877
   },
   {
     "id": "q035",
@@ -4014,10 +4014,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6788203716278076,
+    "similarity": 0.6788202524185181,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.916200019419193
+    "latency_ms": 14.73413899998377
   },
   {
     "id": "q036",
@@ -4026,10 +4026,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7961937189102173,
+    "similarity": 0.7961938381195068,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.83599989581853
+    "latency_ms": 14.33134199999131
   },
   {
     "id": "q037",
@@ -4038,10 +4038,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.37196534872055054,
+    "similarity": 0.37196511030197144,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.13410002272576
+    "latency_ms": 14.588091999996777
   },
   {
     "id": "q038",
@@ -4050,10 +4050,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.17689745128154755,
+    "similarity": 0.17689739167690277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.631100034341216
+    "latency_ms": 14.488464000010026
   },
   {
     "id": "q039",
@@ -4062,10 +4062,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3611947000026703,
+    "similarity": 0.3611947298049927,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.287900077179074
+    "latency_ms": 14.579109000010249
   },
   {
     "id": "q040",
@@ -4074,10 +4074,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6006890535354614,
+    "similarity": 0.600689172744751,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.032699927687645
+    "latency_ms": 14.521724000019276
   },
   {
     "id": "q041",
@@ -4086,10 +4086,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6534281373023987,
+    "similarity": 0.6534281969070435,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.435900013893843
+    "latency_ms": 14.554512000046316
   },
   {
     "id": "q042",
@@ -4098,10 +4098,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7957009077072144,
+    "similarity": 0.7957008481025696,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.562999843619764
+    "latency_ms": 14.585136999983206
   },
   {
     "id": "q043",
@@ -4113,7 +4113,7 @@
     "similarity": 0.7090014815330505,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.671200106851757
+    "latency_ms": 14.74182899997345
   },
   {
     "id": "q044",
@@ -4125,7 +4125,7 @@
     "similarity": 0.8592590093612671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.418200021609664
+    "latency_ms": 14.661240000009457
   },
   {
     "id": "q045",
@@ -4134,10 +4134,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8453062176704407,
+    "similarity": 0.8453060388565063,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.89570002257824
+    "latency_ms": 14.686788000034312
   },
   {
     "id": "q046",
@@ -4146,10 +4146,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.8137868642807007,
+    "similarity": 0.8137868046760559,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.00380005221814
+    "latency_ms": 13.416398999993362
   },
   {
     "id": "q047",
@@ -4158,10 +4158,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4778963327407837,
+    "similarity": 0.47789663076400757,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.43810007814318
+    "latency_ms": 14.594952999971156
   },
   {
     "id": "q048",
@@ -4170,10 +4170,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6442001461982727,
+    "similarity": 0.6442002058029175,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.886800097301602
+    "latency_ms": 14.441135000026861
   },
   {
     "id": "q049",
@@ -4185,7 +4185,7 @@
     "similarity": 0.4194904565811157,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.851900038309395
+    "latency_ms": 14.416118000013967
   },
   {
     "id": "q050",
@@ -4194,10 +4194,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3874727189540863,
+    "similarity": 0.3874727785587311,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.71039991825819
+    "latency_ms": 14.609143000001268
   },
   {
     "id": "q051",
@@ -4206,10 +4206,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3422665297985077,
+    "similarity": 0.3422665596008301,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.36430012434721
+    "latency_ms": 14.49353200001724
   },
   {
     "id": "q052",
@@ -4218,10 +4218,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4809243083000183,
+    "similarity": 0.48092424869537354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.88389995880425
+    "latency_ms": 14.935825999998542
   },
   {
     "id": "q053",
@@ -4230,10 +4230,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7647057175636292,
+    "similarity": 0.7647055983543396,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.67510004620999
+    "latency_ms": 15.016646999981731
   },
   {
     "id": "q054",
@@ -4242,10 +4242,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7549809217453003,
+    "similarity": 0.7549808621406555,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.052099937573075
+    "latency_ms": 14.912382000005664
   },
   {
     "id": "q055",
@@ -4254,10 +4254,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7313738465309143,
+    "similarity": 0.7313739061355591,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.019799945876002
+    "latency_ms": 14.642321999986052
   },
   {
     "id": "q056",
@@ -4266,10 +4266,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6008458137512207,
+    "similarity": 0.6008460521697998,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.668400064110756
+    "latency_ms": 14.77094200001261
   },
   {
     "id": "q057",
@@ -4278,10 +4278,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5953477621078491,
+    "similarity": 0.5953478813171387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.70179994776845
+    "latency_ms": 15.17122500001733
   },
   {
     "id": "q058",
@@ -4290,10 +4290,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.7412004470825195,
+    "similarity": 0.7412006258964539,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.632800094783306
+    "latency_ms": 15.852372000011883
   },
   {
     "id": "q059",
@@ -4302,10 +4302,10 @@
     "language": "en",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6229509115219116,
+    "similarity": 0.6229508519172668,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.47219996713102
+    "latency_ms": 14.298323999980767
   },
   {
     "id": "q060",
@@ -4314,10 +4314,10 @@
     "language": "hinglish",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4368623197078705,
+    "similarity": 0.436862587928772,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 34.27649999503046
+    "latency_ms": 16.442805999986376
   },
   {
     "id": "q061",
@@ -4326,10 +4326,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5830721855163574,
+    "similarity": 0.5830719470977783,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.543500018306077
+    "latency_ms": 13.315478999970765
   },
   {
     "id": "q062",
@@ -4338,10 +4338,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.2979740798473358,
+    "similarity": 0.2979740500450134,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.847100070677698
+    "latency_ms": 13.234249000021236
   },
   {
     "id": "q063",
@@ -4353,7 +4353,7 @@
     "similarity": 0.8194530010223389,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.865099974907935
+    "latency_ms": 13.353263999988485
   },
   {
     "id": "q064",
@@ -4362,10 +4362,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.330087274312973,
+    "similarity": 0.33008742332458496,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.117399969138205
+    "latency_ms": 15.240296000001763
   },
   {
     "id": "q065",
@@ -4377,7 +4377,7 @@
     "similarity": 0.5282601118087769,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.11019995715469
+    "latency_ms": 14.503587000007201
   },
   {
     "id": "q066",
@@ -4389,7 +4389,7 @@
     "similarity": 0.6689236164093018,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.988700058311224
+    "latency_ms": 14.998149000007288
   },
   {
     "id": "q067",
@@ -4398,10 +4398,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5194751024246216,
+    "similarity": 0.5194752216339111,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.509299852885306
+    "latency_ms": 14.427284000021245
   },
   {
     "id": "q068",
@@ -4410,10 +4410,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3956024646759033,
+    "similarity": 0.3956025242805481,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.299400022253394
+    "latency_ms": 13.2888700000251
   },
   {
     "id": "q069",
@@ -4422,10 +4422,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3565393090248108,
+    "similarity": 0.35653936862945557,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.558099922724068
+    "latency_ms": 14.513811999989912
   },
   {
     "id": "q070",
@@ -4434,10 +4434,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.1251663714647293,
+    "similarity": 0.12516634166240692,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.82910007610917
+    "latency_ms": 14.637715999981538
   },
   {
     "id": "q071",
@@ -4446,10 +4446,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.2413882613182068,
+    "similarity": 0.24138838052749634,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.644300018437207
+    "latency_ms": 14.441454999996495
   },
   {
     "id": "q072",
@@ -4458,10 +4458,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.1326192021369934,
+    "similarity": 0.1326192319393158,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.028000008314848
+    "latency_ms": 14.49221999999395
   },
   {
     "id": "q073",
@@ -4470,10 +4470,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.2668502628803253,
+    "similarity": 0.26685023307800293,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.092100121080875
+    "latency_ms": 14.586720000011155
   },
   {
     "id": "q074",
@@ -4482,10 +4482,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.27478715777397156,
+    "similarity": 0.2747872471809387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.877600070089102
+    "latency_ms": 13.468195000029937
   },
   {
     "id": "q075",
@@ -4494,10 +4494,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.19242551922798157,
+    "similarity": 0.1924254596233368,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.23880000039935
+    "latency_ms": 13.03481499999748
   },
   {
     "id": "q076",
@@ -4506,10 +4506,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.30245232582092285,
+    "similarity": 0.3024523854255676,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.890899964608252
+    "latency_ms": 14.641691999997875
   },
   {
     "id": "q077",
@@ -4518,10 +4518,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.31936565041542053,
+    "similarity": 0.3193657398223877,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.560299891978502
+    "latency_ms": 14.510196999992786
   },
   {
     "id": "q078",
@@ -4530,10 +4530,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5445606708526611,
+    "similarity": 0.5445607900619507,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.259599999524653
+    "latency_ms": 14.502746999994542
   },
   {
     "id": "q079",
@@ -4542,10 +4542,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3771788477897644,
+    "similarity": 0.37717872858047485,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.5011998815462
+    "latency_ms": 14.577695999975049
   },
   {
     "id": "q080",
@@ -4554,10 +4554,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.37081030011177063,
+    "similarity": 0.3708101511001587,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.60030003730208
+    "latency_ms": 14.76266000000237
   },
   {
     "id": "q081",
@@ -4566,10 +4566,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3712010979652405,
+    "similarity": 0.37120118737220764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.459700035862625
+    "latency_ms": 14.574542000019619
   },
   {
     "id": "q082",
@@ -4578,10 +4578,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.2184094935655594,
+    "similarity": 0.21840962767601013,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.26879983674735
+    "latency_ms": 14.576384000008602
   },
   {
     "id": "q083",
@@ -4590,10 +4590,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.47128891944885254,
+    "similarity": 0.4712889492511749,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.963300071656704
+    "latency_ms": 14.170054000032906
   },
   {
     "id": "q084",
@@ -4602,10 +4602,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.34457045793533325,
+    "similarity": 0.344570517539978,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.020100112073123
+    "latency_ms": 14.748719999971627
   },
   {
     "id": "q085",
@@ -4614,10 +4614,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.44163772463798523,
+    "similarity": 0.44163778424263,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.40330001991242
+    "latency_ms": 13.354145999983302
   },
   {
     "id": "q086",
@@ -4626,10 +4626,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4358591139316559,
+    "similarity": 0.43585923314094543,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.325599898584187
+    "latency_ms": 14.533962000001566
   },
   {
     "id": "q087",
@@ -4638,10 +4638,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.6305425763130188,
+    "similarity": 0.630542516708374,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.95850010868162
+    "latency_ms": 15.105367000018077
   },
   {
     "id": "q088",
@@ -4650,10 +4650,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5488574504852295,
+    "similarity": 0.548857569694519,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.585299944505095
+    "latency_ms": 14.344421999965107
   },
   {
     "id": "q089",
@@ -4662,10 +4662,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.4983747601509094,
+    "similarity": 0.49837473034858704,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.677500085905194
+    "latency_ms": 14.60745100001759
   },
   {
     "id": "q090",
@@ -4674,10 +4674,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.3919593095779419,
+    "similarity": 0.3919592499732971,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.88119998574257
+    "latency_ms": 14.536015000004454
   },
   {
     "id": "q091",
@@ -4686,10 +4686,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.29495301842689514,
+    "similarity": 0.2949531674385071,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.896700034849346
+    "latency_ms": 14.957437999953527
   },
   {
     "id": "q092",
@@ -4698,10 +4698,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5198609232902527,
+    "similarity": 0.5198608636856079,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.697100006975234
+    "latency_ms": 14.937968999987561
   },
   {
     "id": "q093",
@@ -4710,10 +4710,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.2541050314903259,
+    "similarity": 0.25410500168800354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.977999881841242
+    "latency_ms": 13.28592500001946
   },
   {
     "id": "q094",
@@ -4722,10 +4722,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.448774516582489,
+    "similarity": 0.4487745761871338,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.050700017251074
+    "latency_ms": 13.302078999998912
   },
   {
     "id": "q095",
@@ -4734,10 +4734,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.5253684520721436,
+    "similarity": 0.525368332862854,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.865700079128146
+    "latency_ms": 15.036684999984118
   },
   {
     "id": "q096",
@@ -4746,10 +4746,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.43248450756073,
+    "similarity": 0.43248456716537476,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.991399983875453
+    "latency_ms": 14.616152999991527
   },
   {
     "id": "q097",
@@ -4761,7 +4761,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 29.670000076293945
+    "latency_ms": 14.501324000008253
   },
   {
     "id": "q098",
@@ -4773,7 +4773,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 30.141100054606795
+    "latency_ms": 15.212283999971987
   },
   {
     "id": "q099",
@@ -4785,7 +4785,7 @@
     "similarity": 0.40917766094207764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.459599940106273
+    "latency_ms": 14.6640140000045
   },
   {
     "id": "q100",
@@ -4794,10 +4794,10 @@
     "language": "mixed",
     "threshold": 0.9,
     "predicted": null,
-    "similarity": 0.44072961807250977,
+    "similarity": 0.4407294988632202,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.45190000254661
+    "latency_ms": 14.594683000012765
   },
   {
     "id": "q001",
@@ -4806,10 +4806,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8627628087997437,
+    "similarity": 0.8627626299858093,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.538799913600087
+    "latency_ms": 14.348074999986693
   },
   {
     "id": "q002",
@@ -4818,10 +4818,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3386287987232208,
+    "similarity": 0.338628888130188,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.401900035329163
+    "latency_ms": 13.290722000022015
   },
   {
     "id": "q003",
@@ -4833,7 +4833,7 @@
     "similarity": 0.6554043292999268,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.225900049321353
+    "latency_ms": 14.86094300000218
   },
   {
     "id": "q004",
@@ -4842,10 +4842,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.40910354256629944,
+    "similarity": 0.4091036021709442,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.32539996597916
+    "latency_ms": 14.781005000031655
   },
   {
     "id": "q005",
@@ -4854,10 +4854,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4995056986808777,
+    "similarity": 0.49950581789016724,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.574500000104308
+    "latency_ms": 14.64509499999167
   },
   {
     "id": "q006",
@@ -4866,10 +4866,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5671682357788086,
+    "similarity": 0.5671682953834534,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.046400053426623
+    "latency_ms": 14.70195799998919
   },
   {
     "id": "q007",
@@ -4878,10 +4878,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8073591589927673,
+    "similarity": 0.807358980178833,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.664000030606985
+    "latency_ms": 14.915244000007988
   },
   {
     "id": "q008",
@@ -4890,10 +4890,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8849256038665771,
+    "similarity": 0.8849255442619324,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.30610002577305
+    "latency_ms": 13.292594000006375
   },
   {
     "id": "q009",
@@ -4905,7 +4905,7 @@
     "similarity": 0.8804932832717896,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.61849998589605
+    "latency_ms": 14.80159700000172
   },
   {
     "id": "q010",
@@ -4914,10 +4914,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5805796384811401,
+    "similarity": 0.5805795192718506,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.44730005785823
+    "latency_ms": 14.644774999993615
   },
   {
     "id": "q011",
@@ -4926,10 +4926,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6791057586669922,
+    "similarity": 0.6791056394577026,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.761400026269257
+    "latency_ms": 14.67107399997758
   },
   {
     "id": "q012",
@@ -4938,10 +4938,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7597866058349609,
+    "similarity": 0.7597865462303162,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.670200120657682
+    "latency_ms": 14.549684000002117
   },
   {
     "id": "q013",
@@ -4950,10 +4950,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.9402276277542114,
+    "similarity": 0.9402275681495667,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.695300078950822
+    "latency_ms": 13.535138999969831
   },
   {
     "id": "q014",
@@ -4962,10 +4962,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.681458055973053,
+    "similarity": 0.6814582347869873,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.54610001668334
+    "latency_ms": 14.566286999979638
   },
   {
     "id": "q015",
@@ -4974,10 +4974,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6221097111701965,
+    "similarity": 0.6221097707748413,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.67520002089441
+    "latency_ms": 14.550844999973833
   },
   {
     "id": "q016",
@@ -4986,10 +4986,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7926086783409119,
+    "similarity": 0.7926086187362671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.427799861878157
+    "latency_ms": 14.433262999972385
   },
   {
     "id": "q017",
@@ -5001,7 +5001,7 @@
     "similarity": 0.6029617190361023,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.084800017997622
+    "latency_ms": 13.450769000002083
   },
   {
     "id": "q018",
@@ -5010,10 +5010,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6368942260742188,
+    "similarity": 0.6368944048881531,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.721700025722384
+    "latency_ms": 14.819814000020415
   },
   {
     "id": "q019",
@@ -5022,10 +5022,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8752950429916382,
+    "similarity": 0.8752951622009277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.76219998952001
+    "latency_ms": 15.022634000018797
   },
   {
     "id": "q020",
@@ -5034,10 +5034,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5218254923820496,
+    "similarity": 0.5218256711959839,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.637299969792366
+    "latency_ms": 14.912662000028831
   },
   {
     "id": "q021",
@@ -5046,10 +5046,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7267686128616333,
+    "similarity": 0.7267688512802124,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.231600066646934
+    "latency_ms": 14.88781599999811
   },
   {
     "id": "q022",
@@ -5061,7 +5061,7 @@
     "similarity": 0.7732107639312744,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.436999979428947
+    "latency_ms": 15.75737199999594
   },
   {
     "id": "q023",
@@ -5070,10 +5070,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.677375853061676,
+    "similarity": 0.6773759126663208,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.46030008327216
+    "latency_ms": 14.363038999988476
   },
   {
     "id": "q024",
@@ -5082,10 +5082,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6150933504104614,
+    "similarity": 0.6150934100151062,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.886999818496406
+    "latency_ms": 14.146548999974584
   },
   {
     "id": "q025",
@@ -5097,7 +5097,7 @@
     "similarity": 0.635167121887207,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.792700079269707
+    "latency_ms": 15.010317000019313
   },
   {
     "id": "q026",
@@ -5106,10 +5106,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.19687457382678986,
+    "similarity": 0.19687452912330627,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.913799975067377
+    "latency_ms": 14.672387000018716
   },
   {
     "id": "q027",
@@ -5118,10 +5118,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.597528874874115,
+    "similarity": 0.5975289344787598,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.83449990581721
+    "latency_ms": 13.374386000009508
   },
   {
     "id": "q028",
@@ -5130,10 +5130,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5051097273826599,
+    "similarity": 0.5051096677780151,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.14259996637702
+    "latency_ms": 13.294869000020526
   },
   {
     "id": "q029",
@@ -5142,10 +5142,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8740496635437012,
+    "similarity": 0.8740496039390564,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.34899998176843
+    "latency_ms": 14.533080000006748
   },
   {
     "id": "q030",
@@ -5154,10 +5154,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6225172877311707,
+    "similarity": 0.6225173473358154,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.88600006978959
+    "latency_ms": 14.247789000023658
   },
   {
     "id": "q031",
@@ -5166,10 +5166,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5867493748664856,
+    "similarity": 0.5867495536804199,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.296900007873774
+    "latency_ms": 14.6602280000252
   },
   {
     "id": "q032",
@@ -5178,10 +5178,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5917479991912842,
+    "similarity": 0.5917481184005737,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.75499999895692
+    "latency_ms": 14.742760000018507
   },
   {
     "id": "q033",
@@ -5193,7 +5193,7 @@
     "similarity": 0.5767475366592407,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.85809999052435
+    "latency_ms": 13.252606000008882
   },
   {
     "id": "q034",
@@ -5202,10 +5202,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.48673200607299805,
+    "similarity": 0.4867320954799652,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.6897999253124
+    "latency_ms": 14.688669999998183
   },
   {
     "id": "q035",
@@ -5214,10 +5214,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6788203716278076,
+    "similarity": 0.6788202524185181,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.9154000133276
+    "latency_ms": 14.734018999973841
   },
   {
     "id": "q036",
@@ -5226,10 +5226,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7961937189102173,
+    "similarity": 0.7961938381195068,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.834199998527765
+    "latency_ms": 14.331313000013779
   },
   {
     "id": "q037",
@@ -5238,10 +5238,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.37196534872055054,
+    "similarity": 0.37196511030197144,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.133399900980294
+    "latency_ms": 14.5880310000166
   },
   {
     "id": "q038",
@@ -5250,10 +5250,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.17689745128154755,
+    "similarity": 0.17689739167690277,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.630200027488172
+    "latency_ms": 14.487502999998014
   },
   {
     "id": "q039",
@@ -5262,10 +5262,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3611947000026703,
+    "similarity": 0.3611947298049927,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.287700075656176
+    "latency_ms": 14.579270000012912
   },
   {
     "id": "q040",
@@ -5274,10 +5274,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6006890535354614,
+    "similarity": 0.600689172744751,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.0321999238804
+    "latency_ms": 14.522344000027942
   },
   {
     "id": "q041",
@@ -5286,10 +5286,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6534281373023987,
+    "similarity": 0.6534281969070435,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.434600003995
+    "latency_ms": 14.554753000027176
   },
   {
     "id": "q042",
@@ -5298,10 +5298,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7957009077072144,
+    "similarity": 0.7957008481025696,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.56249995622784
+    "latency_ms": 14.58523700000569
   },
   {
     "id": "q043",
@@ -5313,7 +5313,7 @@
     "similarity": 0.7090014815330505,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.669999981299043
+    "latency_ms": 14.74244999997154
   },
   {
     "id": "q044",
@@ -5325,7 +5325,7 @@
     "similarity": 0.8592590093612671,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.418200021609664
+    "latency_ms": 14.66117000001077
   },
   {
     "id": "q045",
@@ -5334,10 +5334,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8453062176704407,
+    "similarity": 0.8453060388565063,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.894100126810372
+    "latency_ms": 14.686578000038253
   },
   {
     "id": "q046",
@@ -5346,10 +5346,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.8137868642807007,
+    "similarity": 0.8137868046760559,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.003300048410892
+    "latency_ms": 13.4168989999921
   },
   {
     "id": "q047",
@@ -5358,10 +5358,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4778963327407837,
+    "similarity": 0.47789663076400757,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.43660006672144
+    "latency_ms": 14.594321999993554
   },
   {
     "id": "q048",
@@ -5370,10 +5370,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6442001461982727,
+    "similarity": 0.6442002058029175,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.886800097301602
+    "latency_ms": 14.441325000007055
   },
   {
     "id": "q049",
@@ -5385,7 +5385,7 @@
     "similarity": 0.4194904565811157,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.849300018511713
+    "latency_ms": 14.41687900000943
   },
   {
     "id": "q050",
@@ -5394,10 +5394,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3874727189540863,
+    "similarity": 0.3874727785587311,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.709500027820468
+    "latency_ms": 14.609233999976823
   },
   {
     "id": "q051",
@@ -5406,10 +5406,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3422665297985077,
+    "similarity": 0.3422665596008301,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.364900128915906
+    "latency_ms": 14.493652000027168
   },
   {
     "id": "q052",
@@ -5418,10 +5418,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4809243083000183,
+    "similarity": 0.48092424869537354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.882899951189756
+    "latency_ms": 14.935876000009785
   },
   {
     "id": "q053",
@@ -5430,10 +5430,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7647057175636292,
+    "similarity": 0.7647055983543396,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.674700043164194
+    "latency_ms": 15.016675999987683
   },
   {
     "id": "q054",
@@ -5442,10 +5442,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7549809217453003,
+    "similarity": 0.7549808621406555,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.05169993452728
+    "latency_ms": 14.912171999981183
   },
   {
     "id": "q055",
@@ -5454,10 +5454,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7313738465309143,
+    "similarity": 0.7313739061355591,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.019199941307306
+    "latency_ms": 14.641940999979397
   },
   {
     "id": "q056",
@@ -5466,10 +5466,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6008458137512207,
+    "similarity": 0.6008460521697998,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.668200062587857
+    "latency_ms": 14.770851999998058
   },
   {
     "id": "q057",
@@ -5478,10 +5478,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5953477621078491,
+    "similarity": 0.5953478813171387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.701200059615076
+    "latency_ms": 15.17139500001008
   },
   {
     "id": "q058",
@@ -5490,10 +5490,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.7412004470825195,
+    "similarity": 0.7412006258964539,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.632600093260407
+    "latency_ms": 15.852222000006577
   },
   {
     "id": "q059",
@@ -5502,10 +5502,10 @@
     "language": "en",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6229509115219116,
+    "similarity": 0.6229508519172668,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.471800080500543
+    "latency_ms": 14.298373999992009
   },
   {
     "id": "q060",
@@ -5514,10 +5514,10 @@
     "language": "hinglish",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4368623197078705,
+    "similarity": 0.436862587928772,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 34.276099991984665
+    "latency_ms": 16.44285599999762
   },
   {
     "id": "q061",
@@ -5526,10 +5526,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5830721855163574,
+    "similarity": 0.5830719470977783,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.542400009930134
+    "latency_ms": 13.315278999982638
   },
   {
     "id": "q062",
@@ -5538,10 +5538,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.2979740798473358,
+    "similarity": 0.2979740500450134,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.847900076769292
+    "latency_ms": 13.234289000024546
   },
   {
     "id": "q063",
@@ -5553,7 +5553,7 @@
     "similarity": 0.8194530010223389,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.86450008675456
+    "latency_ms": 13.35332400000766
   },
   {
     "id": "q064",
@@ -5562,10 +5562,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.330087274312973,
+    "similarity": 0.33008742332458496,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.11629984434694
+    "latency_ms": 15.240055999981905
   },
   {
     "id": "q065",
@@ -5577,7 +5577,7 @@
     "similarity": 0.5282601118087769,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.110000072047114
+    "latency_ms": 14.50343600001247
   },
   {
     "id": "q066",
@@ -5589,7 +5589,7 @@
     "similarity": 0.6689236164093018,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.988599941134453
+    "latency_ms": 14.998549000011963
   },
   {
     "id": "q067",
@@ -5598,10 +5598,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5194751024246216,
+    "similarity": 0.5194752216339111,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.508199960924685
+    "latency_ms": 14.42736500001729
   },
   {
     "id": "q068",
@@ -5610,10 +5610,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3956024646759033,
+    "similarity": 0.3956025242805481,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.299200020730495
+    "latency_ms": 13.28893900000594
   },
   {
     "id": "q069",
@@ -5622,10 +5622,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3565393090248108,
+    "similarity": 0.35653936862945557,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.557899804785848
+    "latency_ms": 14.51368199997205
   },
   {
     "id": "q070",
@@ -5634,10 +5634,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.1251663714647293,
+    "similarity": 0.12516634166240692,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.84550008457154
+    "latency_ms": 14.638627000010729
   },
   {
     "id": "q071",
@@ -5646,10 +5646,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.2413882613182068,
+    "similarity": 0.24138838052749634,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.645000023767352
+    "latency_ms": 14.441494999971383
   },
   {
     "id": "q072",
@@ -5658,10 +5658,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.1326192021369934,
+    "similarity": 0.1326192319393158,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.02790012396872
+    "latency_ms": 14.492039999993267
   },
   {
     "id": "q073",
@@ -5670,10 +5670,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.2668502628803253,
+    "similarity": 0.26685023307800293,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.091900003142655
+    "latency_ms": 14.58672100000058
   },
   {
     "id": "q074",
@@ -5682,10 +5682,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.27478715777397156,
+    "similarity": 0.2747872471809387,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.877400068566203
+    "latency_ms": 13.467944000012722
   },
   {
     "id": "q075",
@@ -5694,10 +5694,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.19242551922798157,
+    "similarity": 0.1924254596233368,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 23.238399997353554
+    "latency_ms": 13.034653999994816
   },
   {
     "id": "q076",
@@ -5706,10 +5706,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.30245232582092285,
+    "similarity": 0.3024523854255676,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.891999972984195
+    "latency_ms": 14.641691999997875
   },
   {
     "id": "q077",
@@ -5718,10 +5718,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.31936565041542053,
+    "similarity": 0.3193657398223877,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.56100001372397
+    "latency_ms": 14.510247000004028
   },
   {
     "id": "q078",
@@ -5730,10 +5730,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5445606708526611,
+    "similarity": 0.5445607900619507,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.23899995908141
+    "latency_ms": 14.503347000015765
   },
   {
     "id": "q079",
@@ -5742,10 +5742,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3771788477897644,
+    "similarity": 0.37717872858047485,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 25.499099981971085
+    "latency_ms": 14.578036999978394
   },
   {
     "id": "q080",
@@ -5754,10 +5754,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.37081030011177063,
+    "similarity": 0.3708101511001587,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.59940003044903
+    "latency_ms": 14.762720000021545
   },
   {
     "id": "q081",
@@ -5766,10 +5766,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3712010979652405,
+    "similarity": 0.37120118737220764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.459600035101175
+    "latency_ms": 14.574500999998463
   },
   {
     "id": "q082",
@@ -5778,10 +5778,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.2184094935655594,
+    "similarity": 0.21840962767601013,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.268299949355423
+    "latency_ms": 14.576804999990145
   },
   {
     "id": "q083",
@@ -5790,10 +5790,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.47128891944885254,
+    "similarity": 0.4712889492511749,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 26.963000069372356
+    "latency_ms": 14.169583000011698
   },
   {
     "id": "q084",
@@ -5802,10 +5802,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.34457045793533325,
+    "similarity": 0.344570517539978,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.02040011435747
+    "latency_ms": 14.748499999967635
   },
   {
     "id": "q085",
@@ -5814,10 +5814,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.44163772463798523,
+    "similarity": 0.44163778424263,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 24.402500013820827
+    "latency_ms": 13.354806999984703
   },
   {
     "id": "q086",
@@ -5826,10 +5826,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4358591139316559,
+    "similarity": 0.43585923314094543,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.325699899345636
+    "latency_ms": 14.533862000007503
   },
   {
     "id": "q087",
@@ -5838,10 +5838,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.6305425763130188,
+    "similarity": 0.630542516708374,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.958700110204518
+    "latency_ms": 15.105387000005521
   },
   {
     "id": "q088",
@@ -5850,10 +5850,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5488574504852295,
+    "similarity": 0.548857569694519,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.584199936129153
+    "latency_ms": 14.344581999978345
   },
   {
     "id": "q089",
@@ -5862,10 +5862,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.4983747601509094,
+    "similarity": 0.49837473034858704,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.677200083620846
+    "latency_ms": 14.606900000018186
   },
   {
     "id": "q090",
@@ -5874,10 +5874,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.3919593095779419,
+    "similarity": 0.3919592499732971,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 30.882899882271886
+    "latency_ms": 14.53586500002757
   },
   {
     "id": "q091",
@@ -5886,10 +5886,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.29495301842689514,
+    "similarity": 0.2949531674385071,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 31.898300047032535
+    "latency_ms": 14.957367999983262
   },
   {
     "id": "q092",
@@ -5898,10 +5898,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5198609232902527,
+    "similarity": 0.5198608636856079,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.696399885229766
+    "latency_ms": 14.937788999986878
   },
   {
     "id": "q093",
@@ -5910,10 +5910,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.2541050314903259,
+    "similarity": 0.25410500168800354,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.977599995210767
+    "latency_ms": 13.285835000004909
   },
   {
     "id": "q094",
@@ -5922,10 +5922,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.448774516582489,
+    "similarity": 0.4487745761871338,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 29.05150002334267
+    "latency_ms": 13.30297099997324
   },
   {
     "id": "q095",
@@ -5934,10 +5934,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.5253684520721436,
+    "similarity": 0.525368332862854,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 32.86599996499717
+    "latency_ms": 15.044746999961944
   },
   {
     "id": "q096",
@@ -5946,10 +5946,10 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.43248450756073,
+    "similarity": 0.43248456716537476,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 27.991400100290775
+    "latency_ms": 14.616173000007393
   },
   {
     "id": "q097",
@@ -5961,7 +5961,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 29.6695000724867
+    "latency_ms": 14.501343999995697
   },
   {
     "id": "q098",
@@ -5973,7 +5973,7 @@
     "similarity": 0.0,
     "reason": "private",
     "false_hit": false,
-    "latency_ms": 30.141200055368245
+    "latency_ms": 15.212294000008342
   },
   {
     "id": "q099",
@@ -5985,7 +5985,7 @@
     "similarity": 0.40917766094207764,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 28.45700003672391
+    "latency_ms": 14.663843999983328
   },
   {
     "id": "q100",
@@ -5994,9 +5994,9 @@
     "language": "mixed",
     "threshold": 0.95,
     "predicted": null,
-    "similarity": 0.44072961807250977,
+    "similarity": 0.4407294988632202,
     "reason": "below_threshold",
     "false_hit": false,
-    "latency_ms": 33.452500007115304
+    "latency_ms": 14.594612000024654
   }
 ]

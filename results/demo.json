@@ -1,0 +1,29 @@
+[
+  {
+    "question": "How long does a refund take?",
+    "answer": "Refunds arrive within 5–7 business days after the return is approved.",
+    "hit": false,
+    "similarity": 0.0,
+    "reason": "empty",
+    "latency_ms": 343.78075000000763,
+    "tokens_used": 1230
+  },
+  {
+    "question": "How long will a refund take?",
+    "answer": "Refunds arrive within 5–7 business days after the return is approved.",
+    "hit": true,
+    "similarity": 0.9921131134033203,
+    "reason": "hit",
+    "latency_ms": 17.574619000015446,
+    "tokens_used": 0
+  },
+  {
+    "question": "How long does the refund take?",
+    "answer": "Refunds arrive within 5–7 business days after the return is approved.",
+    "hit": true,
+    "similarity": 0.9915056228637695,
+    "reason": "hit",
+    "latency_ms": 17.742938000026243,
+    "tokens_used": 0
+  }
+]

@@ -1,7 +1,7 @@
 {
   "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
-  "python": "3.12.14",
-  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.12.16",
+  "platform": "Linux-7.0.0-1019-azure-x86_64-with-glibc2.43",
   "packages": {
     "sentence-transformers": "6.2.0",
     "faiss-cpu": "1.15.1",
@@ -17,7 +17,7 @@
       "hit_rate_pct": 17,
       "false_hits": 0,
       "llm_calls": 83,
-      "mean_lookup_ms": 28.7914330069907
+      "mean_lookup_ms": 14.474790210001345
     },
     {
       "threshold": 0.8,
@@ -25,7 +25,7 @@
       "hit_rate_pct": 10,
       "false_hits": 0,
       "llm_calls": 90,
-      "mean_lookup_ms": 28.789941002614796
+      "mean_lookup_ms": 14.472207670003172
     },
     {
       "threshold": 0.85,
@@ -33,7 +33,7 @@
       "hit_rate_pct": 7,
       "false_hits": 0,
       "llm_calls": 93,
-      "mean_lookup_ms": 28.790529010584578
+      "mean_lookup_ms": 14.471888439999816
     },
     {
       "threshold": 0.9,
@@ -41,7 +41,7 @@
       "hit_rate_pct": 1,
       "false_hits": 0,
       "llm_calls": 99,
-      "mean_lookup_ms": 28.7932410009671
+      "mean_lookup_ms": 14.471257880000792
     },
     {
       "threshold": 0.95,
@@ -49,7 +49,7 @@
       "hit_rate_pct": 0,
       "false_hits": 0,
       "llm_calls": 100,
-      "mean_lookup_ms": 28.79201901028864
+      "mean_lookup_ms": 14.47113602000087
     }
   ],
   "chosen": {
@@ -58,7 +58,7 @@
     "hit_rate_pct": 17,
     "false_hits": 0,
     "llm_calls": 83,
-    "mean_lookup_ms": 28.7914330069907
+    "mean_lookup_ms": 14.474790210001345
   },
   "negation_examples": [
     {
@@ -71,13 +71,18 @@
       "cached": "Refund chahiye",
       "query": "Refund nahi chahiye",
       "blocked": true,
-      "similarity": 0.9064918160438538
+      "similarity": 0.9064916372299194
     },
     {
       "cached": "Cancel the order",
       "query": "Do not cancel the order",
       "blocked": true,
-      "similarity": 0.8293521404266357
+      "similarity": 0.8293520212173462
     }
-  ]
+  ],
+  "end_to_end": {
+    "baseline_ms": 721.9107939000008,
+    "cached_ms": 597.0237858700017,
+    "reduction_pct": 17.299506959207278
+  }
 }

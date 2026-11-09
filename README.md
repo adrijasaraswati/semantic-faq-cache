@@ -21,17 +21,17 @@ flowchart LR
 <!-- RESULTS START -->
 ## Measured results
 
-Cache hit rate 17% on 100 test questions at threshold 0.75 with 0 false hits; LLM calls down 17% (100 to 83).
+Cache hit rate 17% on 100 test questions at threshold 0.75 with 0 false hits; LLM calls down 17%; average latency down from 721.9 ms to 597.0 ms.
 
 | Threshold | Hit rate | False hits | LLM calls needed | Mean embed + lookup ms |
 |---|---|---|---|---|
-| 0.75 | 17% | 0 | 83 | 28.79 |
-| 0.80 | 10% | 0 | 90 | 28.79 |
-| 0.85 | 7% | 0 | 93 | 28.79 |
-| 0.90 | 1% | 0 | 99 | 28.79 |
-| 0.95 | 0% | 0 | 100 | 28.79 |
+| 0.75 | 17% | 0 | 83 | 14.47 |
+| 0.80 | 10% | 0 | 90 | 14.47 |
+| 0.85 | 7% | 0 | 93 | 14.47 |
+| 0.90 | 1% | 0 | 99 | 14.47 |
+| 0.95 | 0% | 0 | 100 | 14.47 |
 
-Warm embed + lookup mean at the selected threshold: 28.79 ms. The optional end-to-end run uses real local Ollama calls, not sleeps or simulated tokens. Hardware and package metadata are in `results/metrics.json`.
+Warm embed + lookup mean at the selected threshold: 14.47 ms. The optional end-to-end run uses real local Ollama calls, not sleeps or simulated tokens. Hardware and package metadata are in `results/metrics.json`.
 
 **Selection rule:** maximum hit rate subject to zero observed false hits; choose the higher threshold on ties. These are calibration-set measurements.
 
