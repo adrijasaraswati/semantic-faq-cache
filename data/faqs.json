@@ -1,0 +1,152 @@
+[
+  {
+    "id": "refund_time",
+    "question": "How long does a refund take?",
+    "answer": "Refunds arrive within 5–7 business days after the return is approved."
+  },
+  {
+    "id": "return_window",
+    "question": "What is the return window?",
+    "answer": "Unused items can be returned within 30 days of delivery."
+  },
+  {
+    "id": "start_return",
+    "question": "How do I start a return?",
+    "answer": "Open Orders, select the item, and choose Request return."
+  },
+  {
+    "id": "cancel",
+    "question": "How can I cancel an order?",
+    "answer": "Choose Cancel in Orders before the package is dispatched."
+  },
+  {
+    "id": "tracking",
+    "question": "How do I track my shipment?",
+    "answer": "Open Orders and select Track shipment for the carrier link."
+  },
+  {
+    "id": "delivery_time",
+    "question": "How long does standard delivery take?",
+    "answer": "Standard delivery takes 3–5 business days."
+  },
+  {
+    "id": "shipping_fee",
+    "question": "What is the shipping fee?",
+    "answer": "Standard shipping costs ₹49; orders of ₹999 or more ship free."
+  },
+  {
+    "id": "cod",
+    "question": "Do you offer cash on delivery?",
+    "answer": "Cash on delivery is available for eligible postal codes at checkout."
+  },
+  {
+    "id": "payment",
+    "question": "Which payment methods are accepted?",
+    "answer": "We accept UPI, debit cards, credit cards, and eligible cash on delivery."
+  },
+  {
+    "id": "failed_payment",
+    "question": "What if payment fails but money is deducted?",
+    "answer": "Failed-payment deductions are reversed by the bank within 3–5 business days."
+  },
+  {
+    "id": "address_change",
+    "question": "Can I change the delivery address before dispatch?",
+    "answer": "Edit the delivery address in Orders before dispatch."
+  },
+  {
+    "id": "damaged",
+    "question": "What should I do if an item arrives damaged?",
+    "answer": "Report damage through Orders within 48 hours and attach photos."
+  },
+  {
+    "id": "wrong_item",
+    "question": "What if I receive the wrong item?",
+    "answer": "Choose Wrong item in the return form for a free replacement."
+  },
+  {
+    "id": "exchange",
+    "question": "Can I exchange an item for another size?",
+    "answer": "Unused clothing can be exchanged for another available size within 30 days."
+  },
+  {
+    "id": "refund_method",
+    "question": "Which payment method is credited when a refund is issued?",
+    "answer": "Prepaid refunds go to the original payment method; cash orders use a verified bank transfer."
+  },
+  {
+    "id": "return_fee",
+    "question": "Is return shipping free?",
+    "answer": "Return pickup is free for damaged or incorrect items; other returns cost ₹49."
+  },
+  {
+    "id": "international",
+    "question": "Do you ship internationally?",
+    "answer": "We currently deliver only within India."
+  },
+  {
+    "id": "weekend",
+    "question": "Do you deliver on weekends?",
+    "answer": "Weekend delivery depends on the local carrier's availability."
+  },
+  {
+    "id": "coupon",
+    "question": "How do I apply a coupon?",
+    "answer": "Enter the coupon code in the checkout discount field before paying."
+  },
+  {
+    "id": "stack_coupon",
+    "question": "Can I use multiple coupons on one order?",
+    "answer": "Only one coupon can be applied per order."
+  },
+  {
+    "id": "invoice",
+    "question": "How can I download an invoice?",
+    "answer": "Select Download invoice on the order details page."
+  },
+  {
+    "id": "password",
+    "question": "How do I reset my password?",
+    "answer": "Choose Forgot password on the sign-in page and follow the email link."
+  },
+  {
+    "id": "delete_account",
+    "question": "How do I delete my account?",
+    "answer": "Request account deletion from Settings, Privacy, Delete account."
+  },
+  {
+    "id": "support",
+    "question": "How can I contact customer support?",
+    "answer": "Use the chat on the Help page to reach the demo support team."
+  },
+  {
+    "id": "support_hours",
+    "question": "What are customer support hours?",
+    "answer": "Demo support hours are 9 AM–6 PM IST, Monday through Saturday."
+  },
+  {
+    "id": "stock",
+    "question": "How do I get notified when an item is back in stock?",
+    "answer": "Select Notify me on the product page to subscribe to restock alerts."
+  },
+  {
+    "id": "warranty",
+    "question": "What warranty do electronics include?",
+    "answer": "Electronics include the manufacturer's stated warranty shown on the product page."
+  },
+  {
+    "id": "gift_wrap",
+    "question": "Do you offer gift wrapping?",
+    "answer": "Gift wrapping is available for eligible products at checkout for ₹30."
+  },
+  {
+    "id": "loyalty",
+    "question": "How do loyalty points work?",
+    "answer": "Earn one point per ₹100 spent; 10 points redeem for ₹10 at checkout."
+  },
+  {
+    "id": "split_delivery",
+    "question": "Why are items in my order arriving separately?",
+    "answer": "Items from different warehouses may ship in separate packages at no extra shipping cost."
+  }
+]

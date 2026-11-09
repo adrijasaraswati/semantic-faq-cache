@@ -1,0 +1,83 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "sentence-transformers": "6.2.0",
+    "faiss-cpu": "1.15.1",
+    "torch": "2.15.0",
+    "numpy": "2.5.4"
+  },
+  "dataset_sha256": "73b0af25ed25990f79bf7c7e31e85da8dd73695120597d972817fef4097fceaa",
+  "protocol": "100 individual warm CPU embeddings; fixed 30 FAQ cache; no test-time writes; retrieval only",
+  "sweep": [
+    {
+      "threshold": 0.75,
+      "hits": 17,
+      "hit_rate_pct": 17,
+      "false_hits": 0,
+      "llm_calls": 83,
+      "mean_lookup_ms": 28.7914330069907
+    },
+    {
+      "threshold": 0.8,
+      "hits": 10,
+      "hit_rate_pct": 10,
+      "false_hits": 0,
+      "llm_calls": 90,
+      "mean_lookup_ms": 28.789941002614796
+    },
+    {
+      "threshold": 0.85,
+      "hits": 7,
+      "hit_rate_pct": 7,
+      "false_hits": 0,
+      "llm_calls": 93,
+      "mean_lookup_ms": 28.790529010584578
+    },
+    {
+      "threshold": 0.9,
+      "hits": 1,
+      "hit_rate_pct": 1,
+      "false_hits": 0,
+      "llm_calls": 99,
+      "mean_lookup_ms": 28.7932410009671
+    },
+    {
+      "threshold": 0.95,
+      "hits": 0,
+      "hit_rate_pct": 0,
+      "false_hits": 0,
+      "llm_calls": 100,
+      "mean_lookup_ms": 28.79201901028864
+    }
+  ],
+  "chosen": {
+    "threshold": 0.75,
+    "hits": 17,
+    "hit_rate_pct": 17,
+    "false_hits": 0,
+    "llm_calls": 83,
+    "mean_lookup_ms": 28.7914330069907
+  },
+  "negation_examples": [
+    {
+      "cached": "I want a refund",
+      "query": "I do not want a refund",
+      "blocked": true,
+      "similarity": 0.7680188417434692
+    },
+    {
+      "cached": "Refund chahiye",
+      "query": "Refund nahi chahiye",
+      "blocked": true,
+      "similarity": 0.9064918160438538
+    },
+    {
+      "cached": "Cancel the order",
+      "query": "Do not cancel the order",
+      "blocked": true,
+      "similarity": 0.8293521404266357
+    }
+  ]
+}

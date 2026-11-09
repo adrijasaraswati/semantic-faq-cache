@@ -1,0 +1,602 @@
+[
+  {
+    "id": "q001",
+    "question": "When will I receive my refund?",
+    "expected": "refund_time",
+    "language": "en"
+  },
+  {
+    "id": "q002",
+    "question": "Refund kab milega?",
+    "expected": "refund_time",
+    "language": "hinglish"
+  },
+  {
+    "id": "q003",
+    "question": "How many days do I have to return a product?",
+    "expected": "return_window",
+    "language": "en"
+  },
+  {
+    "id": "q004",
+    "question": "Return kitne din mein kar sakte hain?",
+    "expected": "return_window",
+    "language": "hinglish"
+  },
+  {
+    "id": "q005",
+    "question": "How can I request a product return?",
+    "expected": "start_return",
+    "language": "en"
+  },
+  {
+    "id": "q006",
+    "question": "Return request kaise shuru karun?",
+    "expected": "start_return",
+    "language": "hinglish"
+  },
+  {
+    "id": "q007",
+    "question": "How do I cancel my purchase before dispatch?",
+    "expected": "cancel",
+    "language": "en"
+  },
+  {
+    "id": "q008",
+    "question": "Order cancel kaise karun?",
+    "expected": "cancel",
+    "language": "hinglish"
+  },
+  {
+    "id": "q009",
+    "question": "Where can I see shipment tracking?",
+    "expected": "tracking",
+    "language": "en"
+  },
+  {
+    "id": "q010",
+    "question": "Delivery tracking kahan dekhu?",
+    "expected": "tracking",
+    "language": "hinglish"
+  },
+  {
+    "id": "q011",
+    "question": "What is the standard shipping time?",
+    "expected": "delivery_time",
+    "language": "en"
+  },
+  {
+    "id": "q012",
+    "question": "Normal delivery kitne din leti hai?",
+    "expected": "delivery_time",
+    "language": "hinglish"
+  },
+  {
+    "id": "q013",
+    "question": "How much does shipping cost?",
+    "expected": "shipping_fee",
+    "language": "en"
+  },
+  {
+    "id": "q014",
+    "question": "Shipping ka charge kitna hai?",
+    "expected": "shipping_fee",
+    "language": "hinglish"
+  },
+  {
+    "id": "q015",
+    "question": "Can I pay cash when the package arrives?",
+    "expected": "cod",
+    "language": "en"
+  },
+  {
+    "id": "q016",
+    "question": "Cash on delivery milti hai?",
+    "expected": "cod",
+    "language": "hinglish"
+  },
+  {
+    "id": "q017",
+    "question": "What ways can I pay?",
+    "expected": "payment",
+    "language": "en"
+  },
+  {
+    "id": "q018",
+    "question": "Payment ke kya options hain?",
+    "expected": "payment",
+    "language": "hinglish"
+  },
+  {
+    "id": "q019",
+    "question": "My payment failed but the amount was debited; what happens?",
+    "expected": "failed_payment",
+    "language": "en"
+  },
+  {
+    "id": "q020",
+    "question": "Payment fail hua par paise kat gaye?",
+    "expected": "failed_payment",
+    "language": "hinglish"
+  },
+  {
+    "id": "q021",
+    "question": "How do I edit a shipping address before shipment?",
+    "expected": "address_change",
+    "language": "en"
+  },
+  {
+    "id": "q022",
+    "question": "Dispatch se pehle delivery address badal sakte hain?",
+    "expected": "address_change",
+    "language": "hinglish"
+  },
+  {
+    "id": "q023",
+    "question": "How do I report a damaged product delivery?",
+    "expected": "damaged",
+    "language": "en"
+  },
+  {
+    "id": "q024",
+    "question": "Item damaged aaya toh kya karun?",
+    "expected": "damaged",
+    "language": "hinglish"
+  },
+  {
+    "id": "q025",
+    "question": "How do I replace an incorrectly delivered item?",
+    "expected": "wrong_item",
+    "language": "en"
+  },
+  {
+    "id": "q026",
+    "question": "Galat item mila toh kya karein?",
+    "expected": "wrong_item",
+    "language": "hinglish"
+  },
+  {
+    "id": "q027",
+    "question": "Are size exchanges available?",
+    "expected": "exchange",
+    "language": "en"
+  },
+  {
+    "id": "q028",
+    "question": "Size exchange kar sakte hain?",
+    "expected": "exchange",
+    "language": "hinglish"
+  },
+  {
+    "id": "q029",
+    "question": "Which payment account receives a refund?",
+    "expected": "refund_method",
+    "language": "en"
+  },
+  {
+    "id": "q030",
+    "question": "Refund kis payment method mein aayega?",
+    "expected": "refund_method",
+    "language": "hinglish"
+  },
+  {
+    "id": "q031",
+    "question": "Do I need to pay for return pickup?",
+    "expected": "return_fee",
+    "language": "en"
+  },
+  {
+    "id": "q032",
+    "question": "Return pickup ka charge lagta hai?",
+    "expected": "return_fee",
+    "language": "hinglish"
+  },
+  {
+    "id": "q033",
+    "question": "Can you deliver outside India?",
+    "expected": "international",
+    "language": "en"
+  },
+  {
+    "id": "q034",
+    "question": "India ke bahar delivery hoti hai?",
+    "expected": "international",
+    "language": "hinglish"
+  },
+  {
+    "id": "q035",
+    "question": "Are Saturday and Sunday deliveries available?",
+    "expected": "weekend",
+    "language": "en"
+  },
+  {
+    "id": "q036",
+    "question": "Weekend par delivery milti hai?",
+    "expected": "weekend",
+    "language": "hinglish"
+  },
+  {
+    "id": "q037",
+    "question": "Where do I enter a discount code?",
+    "expected": "coupon",
+    "language": "en"
+  },
+  {
+    "id": "q038",
+    "question": "Coupon code kahan lagau?",
+    "expected": "coupon",
+    "language": "hinglish"
+  },
+  {
+    "id": "q039",
+    "question": "Can two discount codes be combined?",
+    "expected": "stack_coupon",
+    "language": "en"
+  },
+  {
+    "id": "q040",
+    "question": "Ek order pe do coupons laga sakte hain?",
+    "expected": "stack_coupon",
+    "language": "hinglish"
+  },
+  {
+    "id": "q041",
+    "question": "Where can I get my purchase invoice?",
+    "expected": "invoice",
+    "language": "en"
+  },
+  {
+    "id": "q042",
+    "question": "Invoice download kaise karun?",
+    "expected": "invoice",
+    "language": "hinglish"
+  },
+  {
+    "id": "q043",
+    "question": "How can I recover a forgotten password?",
+    "expected": "password",
+    "language": "en"
+  },
+  {
+    "id": "q044",
+    "question": "Password bhool gaya reset kaise karun?",
+    "expected": "password",
+    "language": "hinglish"
+  },
+  {
+    "id": "q045",
+    "question": "Where can I request account deletion?",
+    "expected": "delete_account",
+    "language": "en"
+  },
+  {
+    "id": "q046",
+    "question": "Account delete kaise karein?",
+    "expected": "delete_account",
+    "language": "hinglish"
+  },
+  {
+    "id": "q047",
+    "question": "Where can I reach the support team?",
+    "expected": "support",
+    "language": "en"
+  },
+  {
+    "id": "q048",
+    "question": "Customer support se kaise baat karun?",
+    "expected": "support",
+    "language": "hinglish"
+  },
+  {
+    "id": "q049",
+    "question": "When is the support team available?",
+    "expected": "support_hours",
+    "language": "en"
+  },
+  {
+    "id": "q050",
+    "question": "Support kitne baje khulta hai?",
+    "expected": "support_hours",
+    "language": "hinglish"
+  },
+  {
+    "id": "q051",
+    "question": "Can I subscribe to restock notifications?",
+    "expected": "stock",
+    "language": "en"
+  },
+  {
+    "id": "q052",
+    "question": "Stock wapas aaye toh notification kaise milega?",
+    "expected": "stock",
+    "language": "hinglish"
+  },
+  {
+    "id": "q053",
+    "question": "Where can I check an electronic product's warranty?",
+    "expected": "warranty",
+    "language": "en"
+  },
+  {
+    "id": "q054",
+    "question": "Electronics ki warranty kahan dikhegi?",
+    "expected": "warranty",
+    "language": "hinglish"
+  },
+  {
+    "id": "q055",
+    "question": "Can my purchase be gift wrapped?",
+    "expected": "gift_wrap",
+    "language": "en"
+  },
+  {
+    "id": "q056",
+    "question": "Gift packing milti hai?",
+    "expected": "gift_wrap",
+    "language": "hinglish"
+  },
+  {
+    "id": "q057",
+    "question": "How are reward points earned and redeemed?",
+    "expected": "loyalty",
+    "language": "en"
+  },
+  {
+    "id": "q058",
+    "question": "Loyalty points kaise milte aur use hote hain?",
+    "expected": "loyalty",
+    "language": "hinglish"
+  },
+  {
+    "id": "q059",
+    "question": "Why was my purchase split into separate shipments?",
+    "expected": "split_delivery",
+    "language": "en"
+  },
+  {
+    "id": "q060",
+    "question": "Ek order ke items alag alag kyun aa rahe hain?",
+    "expected": "split_delivery",
+    "language": "hinglish"
+  },
+  {
+    "id": "q061",
+    "question": "I do not want a refund",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q062",
+    "question": "Refund nahi chahiye",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q063",
+    "question": "Do not cancel the order",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q064",
+    "question": "Can I return a used mattress after two years?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q065",
+    "question": "Will you refund cryptocurrency losses?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q066",
+    "question": "Can I cancel after the shipment has been delivered?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q067",
+    "question": "Can I exchange food after eating it?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q068",
+    "question": "Can you deliver to Mars?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q069",
+    "question": "What is tomorrow's weather?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q070",
+    "question": "Who won the cricket match?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q071",
+    "question": "How do I bake a cake?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q072",
+    "question": "Can you diagnose my headache?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q073",
+    "question": "What stocks should I buy?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q074",
+    "question": "Write a poem about shopping",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q075",
+    "question": "Tell me a joke",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q076",
+    "question": "What is your CEO's salary?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q077",
+    "question": "Can I insure my car here?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q078",
+    "question": "Do you provide home loans?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q079",
+    "question": "Can you book a train ticket?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q080",
+    "question": "How do I renew my passport?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q081",
+    "question": "Can you repair my laptop at home?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q082",
+    "question": "Can you install an air conditioner?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q083",
+    "question": "Do you rent furniture?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q084",
+    "question": "Can I sell my used phone to you?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q085",
+    "question": "Can I pay with gold?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q086",
+    "question": "Do you offer a student subscription?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q087",
+    "question": "Can you change the manufacturer's warranty terms?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q088",
+    "question": "Is there a lifetime free delivery subscription?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q089",
+    "question": "Can you reserve inventory for six months?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q090",
+    "question": "Can you price match a foreign store?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q091",
+    "question": "What is the carbon footprint of each warehouse?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q092",
+    "question": "Do you offer wholesale reseller contracts?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q093",
+    "question": "Can I buy a franchise?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q094",
+    "question": "Do you accept job applications?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q095",
+    "question": "Can you donate my loyalty points to charity?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q096",
+    "question": "Is my bank account balance sufficient?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q097",
+    "question": "Where is order ID 123456 right now?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q098",
+    "question": "My name is Anil; what is my refund status?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q099",
+    "question": "Mera loan approve kab hoga?",
+    "expected": null,
+    "language": "mixed"
+  },
+  {
+    "id": "q100",
+    "question": "Mera insurance premium kitna hai?",
+    "expected": null,
+    "language": "mixed"
+  }
+]
